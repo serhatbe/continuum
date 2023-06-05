@@ -1,0 +1,14 @@
+{
+  "hash": "76206033e5b7ab64851523078f08e572",
+  "result": {
+    "markdown": "---\ntitle: \"The Art of Practicing\"\ndate: \"2023-06-01\"\ncategories:\n  - Madeline Bruser\n  - Non-fiction\n  - Flow state\n  - Philosophy\nbibliography: references.json\n---\n\n\n# One Sentence Summary\n\nThe Art of Practicing by @bruser1999 contains wisdom and practical advise. Performance as a practice see page 216.\n\n# A Ten-Step Approach\n\n1.  Stretch\n2.  Settle down in your environment: Be present, correct posture, breathing.\n3.  Tune into your heart: Recalling profound feelings is how to tune into your heart.\n4.  Use your body in a comfortable and natural way. Mechanics, habits and emotions...\n5.  Follow your curiosity as you practice.\n6.  Recognize three styles of struggle:\n    1.  Overstated passion, in which we cling to the music.\n    2.  Avoidance, in which we resist dealing with the music.\n    3.  Aggression, in which we attack the music.\n7.  Drop your attitudes and be simple.\n8.  Apply three listening techniques:\n    1.  Sing the notes and lines.\n    2.  Place your attention on the vibrations.\n    3.  Place your attention on each sound as it resonates in the space around you.\n9.  Organize notes into groups, phrases, and textures.\n10. Place your attention on the sensations of touch and movement.\n\n# Key Takeaways\n\n-   Relax, tension is your worst enemy\n-   Hear the music you're playing\n-   Be gentle to yourself\n-   Do not over practice, short mindful work is superior to long laboured practice sessions.\n\n## Miscellaneous Notes\n\n-   Swing the music instead of sounding like sewing machine. Group notes and play them by creating a forward motion.\n-   Focus on more on the sensations of touch and movement and use your vision mainly to check that what you feel is in accord with what you see. Bruser & Menuhin (1999, p. 200).\n-   Think the sound you make. Then discover the sensation your brain has created for you. Bruser & Menuhin (1999, p. 201).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

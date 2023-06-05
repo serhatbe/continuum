@@ -1,0 +1,39 @@
+[
+    {
+        "ISBN": "978-0-8129-6825-5",
+        "author": [
+            {
+                "family": "Aurelius",
+                "given": "Marcus"
+            }
+        ],
+        "edition": "Revised ed. edition",
+        "id": "aurelius2003",
+        "issued": {
+            "date-parts": [
+                [
+                    2003,
+                    5,
+                    6
+                ]
+            ]
+        },
+        "key": "82PI5RSN",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "256",
+        "providerkey": "Zotero",
+        "publisher": "Modern Library",
+        "publisher-place": "New York",
+        "source": "Amazon",
+        "title": "Meditations: A New Translation",
+        "title-short": "Meditations",
+        "translator": [
+            {
+                "family": "Hays",
+                "given": "Gregory"
+            }
+        ],
+        "type": "book"
+    }
+]

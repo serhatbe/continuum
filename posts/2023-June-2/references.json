@@ -1,0 +1,37 @@
+[
+    {
+        "ISBN": "978-0-609-80177-2",
+        "author": [
+            {
+                "family": "Bruser",
+                "given": "Madeline"
+            },
+            {
+                "family": "Menuhin",
+                "given": "Yehudi"
+            }
+        ],
+        "edition": "Illustrated edition",
+        "id": "bruser1999",
+        "issued": {
+            "date-parts": [
+                [
+                    1999,
+                    2,
+                    2
+                ]
+            ]
+        },
+        "key": "U4LE42F6",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "288",
+        "providerkey": "Zotero",
+        "publisher": "Crown",
+        "publisher-place": "New York, NY",
+        "source": "Amazon",
+        "title": "The Art of Practicing: A Guide to Making Music from the Heart",
+        "title-short": "The Art of Practicing",
+        "type": "book"
+    }
+]

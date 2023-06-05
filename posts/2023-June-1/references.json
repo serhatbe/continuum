@@ -1,0 +1,30 @@
+[
+    {
+        "ISBN": "978-0-385-69071-3",
+        "author": [
+            {
+                "family": "Murakami",
+                "given": "Haruki"
+            }
+        ],
+        "id": "murakami2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    1
+                ]
+            ]
+        },
+        "key": "BYXJIM8D",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "752",
+        "providerkey": "Zotero",
+        "publisher": "Anchor Canada",
+        "source": "Amazon",
+        "title": "Killing Commendatore",
+        "type": "book"
+    }
+]

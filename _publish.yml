@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 5e6dd204-4b01-4bdb-9d92-f6c178bf193a
+      url: 'https://serhat.quarto.pub/continuum'

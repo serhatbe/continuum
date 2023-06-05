@@ -1,0 +1,32 @@
+[
+    {
+        "ISBN": "978-1-78648-903-6",
+        "author": [
+            {
+                "family": "Mogi",
+                "given": "Ken"
+            }
+        ],
+        "id": "mogi2018",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    11,
+                    6
+                ]
+            ]
+        },
+        "key": "VZG7KHUT",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "208",
+        "providerkey": "Zotero",
+        "publisher": "Hodder",
+        "publisher-place": "London",
+        "source": "Amazon",
+        "title": "The Little Book of Ikigai: The secret Japanese way to live a happy and long life",
+        "title-short": "The Little Book of Ikigai",
+        "type": "book"
+    }
+]

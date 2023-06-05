@@ -1,0 +1,29 @@
+---
+title: "Title Here"
+date: "2023-xx-xx"
+categories:
+  - 2023
+  - Notes
+  - Haruki Murakami
+  - Marcus Aurelius
+  - Japan
+  - Fiction
+  - Non-fiction
+  - Flow state
+  - Philosophy
+  - Ikigai
+  - Life
+  - Perfectionism
+---
+
+## Brief Summary
+
+Lorem ipsum dolor sit amet.
+
+## Key Takeaways
+
+Lorem ipsum dolor sit amet.
+
+## Miscellaneous Notes
+
+Lorem ipsum dolor sit amet.

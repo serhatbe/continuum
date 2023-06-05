@@ -1,0 +1,10 @@
+---
+title: "Ultimate Satisfaction"
+date: "2023-June-7"
+categories:
+  - 2023
+  - Ikigai
+bibliography: references.json
+---
+
+Success or failure is not relevant but the ultimate satisfaction is the process of performing those small rituals. @mogi2018

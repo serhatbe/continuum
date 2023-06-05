@@ -1,0 +1,14 @@
+{
+  "hash": "651039794dec0e0bf0e90c4bc8c15dd1",
+  "result": {
+    "markdown": "---\ntitle: \"Good Enough\"\ndate: \"2023-May-25\"\ncategories:\n  - 2023\n  - Perfectionism\n---\n\n\nThe perfect is the enemy of the good, often attributed to Voltaire. Yet\nwe strive for the perfect and fail to achieve simple results.\nPerfectionism gets in the way of doing good stuff, ironically progress\nis hindered.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
