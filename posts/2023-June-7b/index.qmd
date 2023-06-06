@@ -1,0 +1,13 @@
+---
+title: "Fake News"
+date: "2023-June-7"
+categories:
+  - 2023
+  - Notes
+---
+
+The greatest worry about the idea of fake news isn't actually that people believe false news - it's that they stop believing real news. Phillips (2020)
+
+### Reference
+
+Phillips, T. (2020). *Truth: a brief history of total bullsh*t\*.

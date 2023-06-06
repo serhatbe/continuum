@@ -1,0 +1,39 @@
+[
+    {
+        "author": [
+            {
+                "family": "Murakami",
+                "given": "Haruki"
+            }
+        ],
+        "id": "murakami2022",
+        "issued": {
+            "date-parts": [
+                [
+                    2022,
+                    11,
+                    8
+                ]
+            ]
+        },
+        "key": "FG3XPBRT",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "213",
+        "providerkey": "Zotero",
+        "publisher": "Bond Street Books",
+        "source": "Amazon",
+        "title": "Novelist as a Vocation",
+        "translator": [
+            {
+                "family": "Gabriel",
+                "given": "Philip"
+            },
+            {
+                "family": "Goossen",
+                "given": "Ted"
+            }
+        ],
+        "type": "book"
+    }
+]
