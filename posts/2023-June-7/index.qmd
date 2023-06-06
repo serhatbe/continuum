@@ -8,3 +8,5 @@ bibliography: references.json
 ---
 
 Success or failure is not relevant but the ultimate satisfaction is the process of performing those small rituals. @mogi2018
+
+Also [see Zanshin](../2023-May-27/index.qmd)

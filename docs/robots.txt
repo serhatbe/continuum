@@ -1,1 +1,1 @@
-Sitemap: https://serhatbe.github.io/continuum/sitemap.xml
+Sitemap: https://serhat.quarto.pub/continuum/sitemap.xml
