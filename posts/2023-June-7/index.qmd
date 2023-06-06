@@ -4,6 +4,7 @@ date: "2023-June-7"
 categories:
   - 2023
   - Ikigai
+  - Japan
 bibliography: references.json
 ---
 
