@@ -1,5 +1,5 @@
 ---
-title: "No hurry, no pause."
+title: "no hurry, no pause"
 listing:
   contents: posts
   sort: "date desc"
