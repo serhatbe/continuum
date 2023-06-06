@@ -1,6 +1,9 @@
 ---
 title: "Title Here"
 date: "2023-xx-xx"
+format: 
+  html: default
+  pdf: default
 categories:
   - 2023
   - Notes
