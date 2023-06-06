@@ -4,9 +4,13 @@ project:
 
 website:
   title: "continuum"
+  site-url: https://serhatbe.github.io/continuum/
+  description: "A blog"
   navbar:
     right:
       - about.qmd
+      - icon: rss
+        href: index.xml
       - icon: github
         href: https://github.com/
   page-footer:
