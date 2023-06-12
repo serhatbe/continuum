@@ -13,7 +13,7 @@
 <lastBuildDate>Mon, 12 Jun 2023 07:00:00 GMT</lastBuildDate>
 <item>
   <title>The Case for Daydreaming</title>
-  <link>https://serhatbe.github.io/continuum/posts/2023-06-12/index.html</link>
+  <link>https://serhatbe.github.io/continuum/posts/2023-June-12/index.html</link>
   <description><![CDATA[ 
 
 
@@ -39,8 +39,44 @@
  ]]></description>
   <category>2023</category>
   <category>Notes</category>
-  <guid>https://serhatbe.github.io/continuum/posts/2023-06-12/index.html</guid>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-June-12/index.html</guid>
   <pubDate>Mon, 12 Jun 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Human Stupidity</title>
+  <link>https://serhatbe.github.io/continuum/posts/2023-June-11/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-basic-laws-of-human-stupidity" class="level2">
+<h2 class="anchored" data-anchor-id="the-basic-laws-of-human-stupidity">The Basic Laws of Human Stupidity</h2>
+<p>The basic laws assert that <span class="citation" data-cites="cipolla2021">Cipolla and Taleb (2021)</span></p>
+<ol type="1">
+<li><p>There will always be more stupid people than you think</p></li>
+<li><p>The proportion of stupid people is invariant to intellectual, social or geographic segmentation</p></li>
+<li><p>A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and possibly incurring losses</p></li>
+<li><p>Non-stupid people always underestimate the damaging power of stupid individuals</p></li>
+</ol>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-cipolla2021" class="csl-entry">
+Cipolla, Carlo M., and Nassim Nicholas Taleb. 2021. <em>The Basic Laws of Human Stupidity</em>. New York: Doubleday.
+</div>
+</div></section></div> ]]></description>
+  <category>2023</category>
+  <category>Notes</category>
+  <category>Carlo M. Cipolla</category>
+  <category>Nassim Nicholas Taleb</category>
+  <category>Philosophy</category>
+  <category>Life</category>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-June-11/index.html</guid>
+  <pubDate>Sun, 11 Jun 2023 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Negative Utility</title>
