@@ -1,0 +1,26 @@
+---
+title: "The Case for Daydreaming"
+date: "2023-06-12"
+format: 
+  html: default
+  pdf: default
+categories:
+  - 2023
+  - Notes
+---
+
+## Default Mode Network
+
+In neuroscience, the default mode network (DMN), also known as the default network, default state network is best known for being active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. It can also be active during detailed thoughts related to external task performance. Other times that the DMN is active include when the individual is thinking about others, thinking about themselves, remembering the past, and planning for the future. (See [Default mode network](https://en.wikipedia.org/wiki/Default_mode_network))
+
+## Mind-wandering
+
+Mind-wandering is a broad term with no currently universal definition. According to McMillan, Kaufmann and Singer (2013) mind-wandering consists of 3 different subtypes: positive constructive daydreaming, guilty fear of failure, and poor attentional control. Whereas Smallwood and Schooler (2015) suggest that mind-wandering consists of thoughts that are task-unrelated and stimulus-independent. In general, a folk explanation of mind-wandering could be described as the experience of thoughts not remaining on a single topic for a long period of time, particularly when people are engaged in an attention-demanding task. (See [Mind-wandering](https://en.wikipedia.org/wiki/Mind-wandering))
+
+## Key Takeaways from UBC Magazine
+
+In a cumulative and worrying way, the smart phones might be making us stupid.
+
+This is no mere speculation. On the increasingly rare occasion when we let our minds wander, the blood in our brains rushes to what is called the default network.
+
+The default network: a vital support centre for spontaneous thought, a creative space that helps us through our thoughts and experiences. But goal driven thinking happens in another part of the brain, disconnects us from the fullness of our experience. (See [Kalina Christoff)](https://psych.ubc.ca/profile/kalina-christoff/)
