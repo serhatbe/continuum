@@ -1,0 +1,64 @@
+---
+title: "Human Stupidity"
+date: "2023-June-13"
+format: 
+  html: default
+  pdf: default
+categories:
+  - 2023
+  - Notes
+  - Philosophy
+  - Life
+bibliography: references.json
+---
+
+## The Third Law of Stupidity
+
+Reasonable people have hard time imagining unreasonable behaviour. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See @cipolla2021)
+
+A stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you're completely at his mercy. Because the stupid person's actions do not conform to the rules of rationality. From all that proceeds:
+
+1.  You're caught by surprise.
+2.  You cannot build a rational defence because the attack lacks any rational structure.
+
+## Frequency Distribution
+
+Most people do not act consistently, they will act intelligently one time and helplessly another. Stupid people normally show perfect consistency in all fields of human endeavours.
+
+@cipolla2021 classify four types of people, comments are mine:
+
+-   Helpless: Identify and help the helpless.
+-   Intelligent: Identify and surround yourself with intelligent people.
+-   Bandit: Identify and utilise bandits with great caution when circumstances demand it.
+-   Stupid: Identify and isolate stupid people from your daily life, especially at work.
+
+## Stupidity and Power
+
+Damaging potential of stupidity is a function of:
+
+1.  Genetic factors and the resulting inheritance
+2.  The position of power and consequences
+
+## Key Takeaways
+
+The world has changed but the fraction $\sigma$[^1] is till maintained. In Industrial world, class and caste have turned into politics and bureaucracy and the religion has faded away:
+
+[^1]: Fraction of stupid people within a population is denoted by the symbol $\sigma$. No specific numerical value is assigned as a numerical estimate would likely be an underestimate.
+
+```{mermaid}
+graph TD;
+    id1(Industrial World)-->Class;
+    id1(Industrial World)-->Caste;
+    Class-->Banished;
+    Caste-->Banished;
+```
+
+```{mermaid}
+graph TD;
+    id1(Industrial World)-->Politics;
+    id1(Industrial World)-->Bureaucracy;
+    Politics-->Persists;
+    Bureaucracy-->Persists;
+```
+
+## References

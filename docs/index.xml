@@ -10,7 +10,100 @@
 <atom:link href="https://serhatbe.github.io/continuum/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Mon, 12 Jun 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jun 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Human Stupidity</title>
+  <link>https://serhatbe.github.io/continuum/posts/2023-June-13/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-third-law-of-stupidity" class="level2">
+<h2 class="anchored" data-anchor-id="the-third-law-of-stupidity">The Third Law of Stupidity</h2>
+<p>Reasonable people have hard time imagining unreasonable behaviour. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See <span class="citation" data-cites="cipolla2021">Cipolla and Taleb (2021)</span>)</p>
+<p>A stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you’re completely at his mercy. Because the stupid person’s actions do not conform to the rules of rationality. From all that proceeds:</p>
+<ol type="1">
+<li>You’re caught by surprise.</li>
+<li>You cannot build a rational defence because the attack lacks any rational structure.</li>
+</ol>
+</section>
+<section id="frequency-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="frequency-distribution">Frequency Distribution</h2>
+<p>Most people do not act consistently, they will act intelligently one time and helplessly another. Stupid people normally show perfect consistency in all fields of human endeavours.</p>
+<p><span class="citation" data-cites="cipolla2021">Cipolla and Taleb (2021)</span> classify four types of people, comments are mine:</p>
+<ul>
+<li>Helpless: Identify and help the helpless.</li>
+<li>Intelligent: Identify and surround yourself with intelligent people.</li>
+<li>Bandit: Identify and utilise bandits with great caution when circumstances demand it.</li>
+<li>Stupid: Identify and isolate stupid people from your daily life, especially at work.</li>
+</ul>
+</section>
+<section id="stupidity-and-power" class="level2">
+<h2 class="anchored" data-anchor-id="stupidity-and-power">Stupidity and Power</h2>
+<p>Damaging potential of stupidity is a function of:</p>
+<ol type="1">
+<li>Genetic factors and the resulting inheritance</li>
+<li>The position of power and consequences</li>
+</ol>
+</section>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">Key Takeaways</h2>
+<p>The world has changed but the fraction <img src="https://latex.codecogs.com/png.latex?%5Csigma"><sup>1</sup> is till maintained. In Industrial world, class and caste have turned into politics and bureaucracy and the religion has faded away:</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">graph TD;
+    id1(Industrial World)--&gt;Class;
+    id1(Industrial World)--&gt;Caste;
+    Class--&gt;Banished;
+    Caste--&gt;Banished;
+</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">graph TD;
+    id1(Industrial World)--&gt;Politics;
+    id1(Industrial World)--&gt;Bureaucracy;
+    Politics--&gt;Persists;
+    Bureaucracy--&gt;Persists;
+</pre>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="references" class="level2">
+
+
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-cipolla2021" class="csl-entry">
+Cipolla, Carlo M., and Nassim Nicholas Taleb. 2021. <em>The Basic Laws of Human Stupidity</em>. New York: Doubleday.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Fraction of stupid people within a population is denoted by the symbol <img src="https://latex.codecogs.com/png.latex?%5Csigma">. No specific numerical value is assigned as a numerical estimate would likely be an underestimate.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>2023</category>
+  <category>Notes</category>
+  <category>Philosophy</category>
+  <category>Life</category>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-June-13/index.html</guid>
+  <pubDate>Tue, 13 Jun 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The Case for Daydreaming</title>
   <link>https://serhatbe.github.io/continuum/posts/2023-June-12/index.html</link>
