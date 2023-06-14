@@ -21,5 +21,6 @@ format:
     theme: cosmo #journal
     css: styles.css
     code-copy: true
+date-format: full
 editor: visual
 

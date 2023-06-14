@@ -67,7 +67,7 @@
     "href": "posts/2023-June-13/index.html#key-takeaways",
     "title": "Human Stupidity",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\nThe world has changed but the fraction \\(\\sigma\\)1 is till maintained. In Industrial world, class and caste have turned into politics and bureaucracy and the religion has faded away:\n\n\n\n\ngraph TD;\n    id1(Industrial World)--&gt;Class;\n    id1(Industrial World)--&gt;Caste;\n    Class--&gt;Banished;\n    Caste--&gt;Banished;\n\n\n\n\n\n\n\n\n\ngraph TD;\n    id1(Industrial World)--&gt;Politics;\n    id1(Industrial World)--&gt;Bureaucracy;\n    Politics--&gt;Persists;\n    Bureaucracy--&gt;Persists;"
+    "text": "Key Takeaways\nThe world has changed but the fraction \\(\\sigma\\)1 is till maintained. In Industrial world, class and caste have turned into politics and bureaucracy and the religion has faded away:\n\n\n\n\ngraph TD;\n    id1(Industrial World)--&gt;Class;\n    id1(Industrial World)--&gt;Caste;\n    Class--&gt;Banished;\n    Caste--&gt;Banished;\n\n\n\n\n\n\n\n\n\ngraph TD;\n    id1(Industrial World)--&gt;Politics;\n    id1(Industrial World)--&gt;Bureaucracy;\n    Politics--&gt;Persists;\n    Bureaucracy--&gt;Persists;\n\n\n\n\n\nAlso see: The Basic Laws of Human Stupidity"
   },
   {
     "objectID": "posts/2023-June-13/index.html#footnotes",
@@ -205,14 +205,14 @@
   {
     "objectID": "posts/2023-June-11/index.html",
     "href": "posts/2023-June-11/index.html",
-    "title": "Human Stupidity",
+    "title": "On Human Stupidity",
     "section": "",
     "text": "The basic laws assert that Cipolla and Taleb (2021)\n\nThere will always be more stupid people than you think\nThe proportion of stupid people is invariant to intellectual, social or geographic segmentation\nA stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and possibly incurring losses\nNon-stupid people always underestimate the damaging power of stupid individuals"
   },
   {
     "objectID": "posts/2023-June-11/index.html#the-basic-laws-of-human-stupidity",
     "href": "posts/2023-June-11/index.html#the-basic-laws-of-human-stupidity",
-    "title": "Human Stupidity",
+    "title": "On Human Stupidity",
     "section": "",
     "text": "The basic laws assert that Cipolla and Taleb (2021)\n\nThere will always be more stupid people than you think\nThe proportion of stupid people is invariant to intellectual, social or geographic segmentation\nA stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and possibly incurring losses\nNon-stupid people always underestimate the damaging power of stupid individuals"
   },
@@ -340,7 +340,7 @@
     "href": "index.html",
     "title": "no hurry, no pause",
     "section": "",
-    "text": "Human Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2023\n\n\n\n\n\n\n\n\nThe Case for Daydreaming\n\n\n\n\n\n\n\n\n\n\n\n\nJun 12, 2023\n\n\n\n\n\n\n\n\nHuman Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2023\n\n\n\n\n\n\n\n\nNegative Utility\n\n\n\n\n\n\n\n\n\n\n\n\nJun 10, 2023\n\n\n\n\n\n\n\n\nTruth-default Theory\n\n\n\n\n\n\n\n\n\n\n\n\nJun 9, 2023\n\n\n\n\n\n\n\n\nThe Human Soul Degrades\n\n\n\n\n\n\n\n\n\n\n\n\nJun 8, 2023\n\n\n\n\n\n\n\n\nEffort vs Results\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\n\n\n\n\n\n\nUltimate Satisfaction\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\n\n\n\n\n\n\nFake News\n\n\n\n\n\n\n\n\n\n\n\n\nJun 7, 2023\n\n\n\n\n\n\n\n\nNocturne A2\n\n\n\n\n\n\n\n\n\n\n\n\nJun 6, 2023\n\n\n\n\n\n\n\n\nNovelist as a Vocation\n\n\n\n\n\n\n\n\n\n\n\n\nJun 6, 2023\n\n\n\n\n\n\n\n\nGood Enough\n\n\n\n\n\n\n\n\n\n\n\n\nJun 5, 2023\n\n\n\n\n\n\n\n\nAnger & Wholesome Way\n\n\n\n\n\n\n\n\n\n\n\n\nJun 4, 2023\n\n\n\n\n\n\n\n\nThe Book of Five Rings\n\n\n\n\n\n\n\n\n\n\n\n\nJun 3, 2023\n\n\n\n\n\n\n\n\nThe Art of Practicing\n\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\nKilling Commendatore\n\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\n\n\n\n\n\n\nZanshin\n\n\n\n\n\n\n\n\n\n\n\n\nMay 27, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Human Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, June 13, 2023\n\n\n\n\n\n\n\n\nThe Case for Daydreaming\n\n\n\n\n\n\n\n\n\n\n\n\nMonday, June 12, 2023\n\n\n\n\n\n\n\n\nOn Human Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nSunday, June 11, 2023\n\n\n\n\n\n\n\n\nNegative Utility\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, June 10, 2023\n\n\n\n\n\n\n\n\nTruth-default Theory\n\n\n\n\n\n\n\n\n\n\n\n\nFriday, June 9, 2023\n\n\n\n\n\n\n\n\nThe Human Soul Degrades\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 8, 2023\n\n\n\n\n\n\n\n\nEffort vs Results\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 7, 2023\n\n\n\n\n\n\n\n\nUltimate Satisfaction\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 7, 2023\n\n\n\n\n\n\n\n\nFake News\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 7, 2023\n\n\n\n\n\n\n\n\nNocturne A2\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, June 6, 2023\n\n\n\n\n\n\n\n\nNovelist as a Vocation\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, June 6, 2023\n\n\n\n\n\n\n\n\nGood Enough\n\n\n\n\n\n\n\n\n\n\n\n\nMonday, June 5, 2023\n\n\n\n\n\n\n\n\nAnger & Wholesome Way\n\n\n\n\n\n\n\n\n\n\n\n\nSunday, June 4, 2023\n\n\n\n\n\n\n\n\nThe Book of Five Rings\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, June 3, 2023\n\n\n\n\n\n\n\n\nThe Art of Practicing\n\n\n\n\n\n\n\n\n\n\n\n\nFriday, June 2, 2023\n\n\n\n\n\n\n\n\nKilling Commendatore\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 1, 2023\n\n\n\n\n\n\n\n\nZanshin\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, May 27, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

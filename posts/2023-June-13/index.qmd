@@ -61,4 +61,6 @@ graph TD;
     Bureaucracy-->Persists;
 ```
 
+Also see: [The Basic Laws of Human Stupidity](https://serhatbe.github.io/continuum/posts/2023-June-11/)
+
 ## References
