@@ -10,7 +10,65 @@
 <atom:link href="https://serhatbe.github.io/continuum/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Tue, 13 Jun 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jun 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Random Notes</title>
+  <link>https://serhatbe.github.io/continuum/posts/2023-June-14/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="imprecision" class="level2">
+<h2 class="anchored" data-anchor-id="imprecision">Imprecision</h2>
+<p>The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. <span class="citation" data-cites="cipolla2021">Cipolla and Taleb (2021)</span></p>
+</section>
+<section id="vacation" class="level2">
+<h2 class="anchored" data-anchor-id="vacation">Vacation</h2>
+<p>Vacation is when you forget what day it is and I can hardly tell what day it was when we were travelling to Tofino.</p>
+<blockquote class="blockquote">
+<p>Relaxing brings weakness, when done by a muscle; but brings strength, when done by a person.” ― Mokokoma Mokhonoana</p>
+</blockquote>
+</section>
+<section id="focusing-illusion" class="level2">
+<h2 class="anchored" data-anchor-id="focusing-illusion">Focusing Illusion</h2>
+<p>The idea that you can be focused on a particular aspect of life, so much so that you can believe that your whole happiness depends on it. In having a focusing illusion, you create your own reason for feeling unhappy. <span class="citation" data-cites="mogi2018">Mogi (2018)</span></p>
+<p>If unhappiness is a vacuum in which the required element is absent, the vacuum is created by the biased imagination of the subject. There is no absolute formula for happiness - each unique condition of life can serve as the foundation for happiness in its own unique way. <span class="citation" data-cites="mogi2018">Mogi (2018)</span></p>
+</section>
+<section id="how-to-fix" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-fix">How to Fix?</h2>
+<p>From Seth’s blog (<a href="https://seths.blog/2023/05/the-thing-about-decay/">link</a>)</p>
+<blockquote class="blockquote">
+<p>One reason we have so much trouble fixing chronic degenerative conditions is that we need to remove elements before we can start building new functions. If we simply put effort on top of a shaky foundation, it'll all be wasted. The best way forward might be to take a few steps back.</p>
+</blockquote>
+</section>
+<section id="references" class="level2">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-cipolla2021" class="csl-entry">
+Cipolla, Carlo M., and Nassim Nicholas Taleb. 2021. <em>The Basic Laws of Human Stupidity</em>. New York: Doubleday.
+</div>
+<div id="ref-mogi2018" class="csl-entry">
+Mogi, Ken. 2018. <em>The Little Book of Ikigai: The secret Japanese way to live a happy and long life</em>. London: Hodder.
+</div>
+</div></section></div> ]]></description>
+  <category>2023</category>
+  <category>Notes</category>
+  <category>Flow state</category>
+  <category>Philosophy</category>
+  <category>Life</category>
+  <category>Perfectionism</category>
+  <category>Mokhonoana</category>
+  <category>Mogi</category>
+  <category>Cipolla</category>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-June-14/index.html</guid>
+  <pubDate>Wed, 14 Jun 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Human Stupidity</title>
   <link>https://serhatbe.github.io/continuum/posts/2023-June-13/index.html</link>
@@ -21,7 +79,7 @@
 
 <section id="the-third-law-of-stupidity" class="level2">
 <h2 class="anchored" data-anchor-id="the-third-law-of-stupidity">The Third Law of Stupidity</h2>
-<p>Reasonable people have hard time imagining unreasonable behaviour. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See <span class="citation" data-cites="cipolla2021">Cipolla and Taleb (2021)</span>)</p>
+<p>Reasonable people have q hard time imagining unreasonable behavior. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See <span class="citation" data-cites="cipolla2021">Cipolla and Taleb (2021)</span>)</p>
 <p>A stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you’re completely at his mercy. Because the stupid person’s actions do not conform to the rules of rationality. From all that proceeds:</p>
 <ol type="1">
 <li>You’re caught by surprise.</li>
@@ -679,6 +737,90 @@ Important
   <category>Life</category>
   <guid>https://serhatbe.github.io/continuum/posts/2023-May-27/index.html</guid>
   <pubDate>Sat, 27 May 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Compromises</title>
+  <link>https://serhatbe.github.io/continuum/posts/2023-May-18/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="choices" class="level2">
+<h2 class="anchored" data-anchor-id="choices">Choices</h2>
+<p>I tried several options:</p>
+<ul>
+<li><p>Static site generators, Jekyll-based options and Python scripts</p></li>
+<li><p>Simple html files using Notepad++ to build a website to hold my notes</p></li>
+</ul>
+<p>Then I’m back to .md files using Zettlr, because it supports:</p>
+<ul>
+<li><p>Math typesetting i.e.&nbsp;good <img src="https://latex.codecogs.com/png.latex?%5CLaTeX"> support.</p></li>
+<li><p>Easy input of more commands in .md than in .html using Notepad++</p></li>
+<li><p>Easy .html and .pdf generation</p></li>
+<li><p>Citation built-in with Zotero</p></li>
+</ul>
+<p>But I discovered <a href="https://quarto.org">Quarto</a> which is a scientific and technical publishing system utilizing <a href="https://pandoc.org">Pandoc</a>. It does everything Zettlr does but in style. But Zettlr is still best for raw note-taking.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>2023</category>
+  <category>Notes</category>
+  <category>Life</category>
+  <category>Perfectionism</category>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-May-18/index.html</guid>
+  <pubDate>Thu, 18 May 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>n Rules for Life</title>
+  <link>https://serhatbe.github.io/continuum/posts/2023-May-16/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<ol type="1">
+<li><p>Never lose sight of ultimate purpose, your physical and mental health: You’re sane and breathing this minute and may be gone forever the next minute. (Unknown, probably Aurelius) Maintain your physical fitness and sanity.</p></li>
+<li><p>Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside you, to make your soul grow. – Kurt Vonnegut</p></li>
+<li><p>No hurry, no pause: When you rush, time shrinks. When you’re relaxed, time expands. This is true even though it’s very hard for the mind to get. When you’re relaxed and doing something willingly, you’re participating in life. (Jon Schreiber, Breema Center)</p></li>
+<li><p>You are what you think: Keep an untroubled spirit; for all things must bow to Nature’s Law (Marcus Aurelius)</p></li>
+<li><p>Reflect on what you’ve read and written: Information becomes knowledge by reflection. Reflection cultivates intuition. abundant intuition makes up for lack of information thereby enabling you operate where your knowledge is limited. (Unknown)</p></li>
+<li><p>Give your attention proportioned to the merits of the case: Sometimes full attention, sometimes none. (Unknown)</p></li>
+<li><p>Focus not so much on words but on actual behavior. (Don’t watch his mouth, watch his hands. – Adler’s dictum).</p></li>
+<li><p>Do not try to stay on top of things (you cannot). Instead try to get to the bottom of things. (This kind of success, while not guaranteed, will be more fulfilling than the former).</p></li>
+<li><p>It is more important to invest in good people than in good ideas. (bet on the jockey not the horse).</p></li>
+<li><p>Work expands to fill the time available for its completion (Parkinson’s law).</p></li>
+<li><p>Perceive those things which cannot be seen (e.g.&nbsp;pay attention even to trifles). And do nothing which is of no use. (Miyamoto Musashi)</p></li>
+<li><p>One who makes a show of valor is hated by others, even he achieves something, it is not praised but denied. (Kumazawa Banzan)</p></li>
+<li><p>In the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.</p></li>
+<li><p>We read the same facts differently. For an optimist philosopher the universe spells victory, for a pessimist, defeat. (William James, from Pragmatism and Other Writings).</p></li>
+</ol>
+<hr>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<ul>
+<li>Revised on 2023-May-16</li>
+<li>Revised on 2023-February-10</li>
+<li>Revised on 2023-February-07</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>2023</category>
+  <category>Notes</category>
+  <category>Reflections</category>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-May-16/index.html</guid>
+  <pubDate>Tue, 16 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

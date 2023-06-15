@@ -14,7 +14,7 @@ bibliography: references.json
 
 ## The Third Law of Stupidity
 
-Reasonable people have hard time imagining unreasonable behaviour. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See @cipolla2021)
+Reasonable people have q hard time imagining unreasonable behavior. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See @cipolla2021)
 
 A stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you're completely at his mercy. Because the stupid person's actions do not conform to the rules of rationality. From all that proceeds:
 

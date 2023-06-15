@@ -1,6 +1,6 @@
 ---
 title: "Title Here"
-date: "2023-xx-xx"
+date: "2023-June-xx"
 format: 
   html: default
   pdf: default
@@ -30,3 +30,5 @@ Lorem ipsum dolor sit amet.
 ## Miscellaneous Notes
 
 Lorem ipsum dolor sit amet.
+
+## References

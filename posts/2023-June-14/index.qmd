@@ -1,0 +1,42 @@
+---
+title: "Random Notes"
+date: "2023-June-14"
+format: 
+  html: default
+  pdf: default
+categories:
+  - 2023
+  - Notes
+  - Flow state
+  - Philosophy
+  - Life
+  - Perfectionism
+  - Mokhonoana
+  - Mogi
+  - Cipolla
+bibliography: references.json
+---
+
+## Imprecision
+
+The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. @cipolla2021
+
+## Vacation
+
+Vacation is when you forget what day it is and I can hardly tell what day it was when we were travelling to Tofino.
+
+> Relaxing brings weakness, when done by a muscle; but brings strength, when done by a person." ― Mokokoma Mokhonoana
+
+## Focusing Illusion
+
+The idea that you can be focused on a particular aspect of life, so much so that you can believe that your whole happiness depends on it. In having a focusing illusion, you create your own reason for feeling unhappy. @mogi2018
+
+If unhappiness is a vacuum in which the required element is absent, the vacuum is created by the biased imagination of the subject. There is no absolute formula for happiness - each unique condition of life can serve as the foundation for happiness in its own unique way. @mogi2018
+
+## How to Fix?
+
+From Seth's blog ([link](https://seths.blog/2023/05/the-thing-about-decay/))
+
+> One reason we have so much trouble fixing chronic degenerative conditions is that we need to remove elements before we can start building new functions. If we simply put effort on top of a shaky foundation, it\'ll all be wasted. The best way forward might be to take a few steps back.
+
+## References

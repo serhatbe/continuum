@@ -1,0 +1,32 @@
+---
+title: "Compromises"
+date: "2023-May-18"
+format: 
+  html: default
+  #pdf: default
+categories:
+  - 2023
+  - Notes
+  - Life
+  - Perfectionism
+---
+
+## Choices
+
+I tried several options:
+
+-   Static site generators, Jekyll-based options and Python scripts
+
+-   Simple html files using Notepad++ to build a website to hold my notes
+
+Then I'm back to .md files using Zettlr, because it supports:
+
+-   Math typesetting i.e. good $\LaTeX$ support.
+
+-   Easy input of more commands in .md than in .html using Notepad++
+
+-   Easy .html and .pdf generation
+
+-   Citation built-in with Zotero
+
+But I discovered [Quarto](https://quarto.org) which is a scientific and technical publishing system utilizing [Pandoc](https://pandoc.org). It does everything Zettlr does but in style. But Zettlr is still best for raw note-taking.
