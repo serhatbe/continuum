@@ -4,7 +4,7 @@ project:
 website:
   title: "continuum"
   site-url: https://serhatbe.github.io/continuum/
-  description: "A blog"
+  description: "random notes and daily miscellany"
   navbar:
     right:
       - about.qmd
