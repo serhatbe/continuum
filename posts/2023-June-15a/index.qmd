@@ -1,0 +1,34 @@
+---
+title: "On Human Stupidity"
+date: "2023-June-15"
+categories:
+  - 2023
+  - Notes
+  - Philosophy
+  - Life
+bibliography: references.json
+---
+
+## The Fifth Law of Stupidity
+
+A stupid person is the most dangerous type of person and they are more dangerous then bandits. The worst consequences of this at macro level is that the algebraic sum of the stupid individuals in a group or society at large will affect the wealth and welfare of the society. @cipolla2021
+
+## Macro Analysis
+
+Bandits: The net result of the action is simply the transfer of positives and negatives. The society as whole neither better nor worse off. If all members of a society were perfect bandits, the society would remain stagnant but there would be no major disaster.
+
+Stupids: They cause losses to other people with no gain on their own account. The society as a whole is impoverished. (See the First Basic Law $\sigma$, the fraction of stupid is a constant and the Second Basic Law, $\sigma$ is not affected by time, space, race, class or any other sociocultural or historical variable).
+
+## Essential Points
+
+In a poorly performing society:
+
+1.  the stupid are allowed by the other members to become more active and take more actions.
+2.  there is a decline in the composition of non-stupid people, for example H~s~ and B~s~ population will decline the society.
+
+Therefore:
+
+1.  In a group, society or country moving uphill, intelligent people manage to keep the $\sigma$ fraction at bay and produce enough gains to make progress a certainty.
+2.  In a group, society or country moving downhill, the $\sigma$ fraction is still the same but the composition of non-stupid people increases the destructive power and makes decline a certainty. This is the direction to Hell.
+
+## References

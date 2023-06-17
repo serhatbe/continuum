@@ -19,17 +19,17 @@ Reasonable people have q hard time imagining unreasonable behavior. A stupid per
 A stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you're completely at his mercy. Because the stupid person's actions do not conform to the rules of rationality. From all that proceeds:
 
 1.  You're caught by surprise.
-2.  You cannot build a rational defence because the attack lacks any rational structure.
+2.  You cannot build a rational defense because the attack lacks any rational structure.
 
 ## Frequency Distribution
 
-Most people do not act consistently, they will act intelligently one time and helplessly another. Stupid people normally show perfect consistency in all fields of human endeavours.
+Most people do not act consistently, they will act intelligently one time and helplessly another. Stupid people normally show perfect consistency in all fields of human endeavors.
 
 @cipolla2021 classify four types of people, comments are mine:
 
 -   Helpless: Identify and help the helpless.
 -   Intelligent: Identify and surround yourself with intelligent people.
--   Bandit: Identify and utilise bandits with great caution when circumstances demand it.
+-   Bandit: Identify and utilize bandits with great caution when circumstances demand it.
 -   Stupid: Identify and isolate stupid people from your daily life, especially at work.
 
 ## Stupidity and Power
@@ -46,7 +46,7 @@ The world has changed but the fraction $\sigma$[^1] is till maintained. In Indus
 [^1]: Fraction of stupid people within a population is denoted by the symbol $\sigma$. No specific numerical value is assigned as a numerical estimate would likely be an underestimate.
 
 ```{mermaid}
-graph TD;
+graph LR;
     id1(Industrial World)-->Class;
     id1(Industrial World)-->Caste;
     Class-->Banished;
@@ -54,7 +54,7 @@ graph TD;
 ```
 
 ```{mermaid}
-graph TD;
+graph LR;
     id1(Industrial World)-->Politics;
     id1(Industrial World)-->Bureaucracy;
     Politics-->Persists;
