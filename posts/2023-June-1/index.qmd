@@ -3,7 +3,6 @@ title: "Killing Commendatore"
 date: "2023-06-01"
 format: 
   html: default
-  pdf: default
 categories:
   - 2023
   - Haruki Murakami
@@ -15,13 +14,5 @@ bibliography: references.json
 ## Brief Summary
 
 A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one's own satisfaction, live in solitude, get better at what one does and make art. @murakami2019
-
-## Key Takeaways
-
-Lorem ipsum dolor sit amet.
-
-## Miscellaneous Notes
-
-Lorem ipsum dolor sit amet...
 
 ## References
