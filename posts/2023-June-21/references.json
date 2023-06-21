@@ -1,0 +1,32 @@
+[
+    {
+        "ISBN": "978-0-09-944068-0",
+        "author": [
+            {
+                "family": "Penrose",
+                "given": "Roger"
+            }
+        ],
+        "id": "penrose2006",
+        "issued": {
+            "date-parts": [
+                [
+                    2006,
+                    2,
+                    12
+                ]
+            ]
+        },
+        "key": "PC6TDAF9",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "1136",
+        "providerkey": "Zotero",
+        "publisher": "Vintage Books",
+        "publisher-place": "London",
+        "source": "Amazon",
+        "title": "The Road to Reality: A Complete Guide to the Laws of the Universe",
+        "title-short": "The Road to Reality",
+        "type": "book"
+    }
+]

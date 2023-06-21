@@ -1,0 +1,19 @@
+---
+title: "The Road to Reality"
+date: "2023-June-21"
+categories:
+  - 2023
+  - Notes
+  - Roger Penrose
+  - Non-fiction
+  - Physics
+  - Philosophy
+id: 20230621133933
+bibliography: references.json
+---
+
+## Introductory Summary
+
+The purpose of the book is to convey to the reader some feeling for understating the universe. The inherent difficulty in such endeavor has led us in many false directions hence we can learn caution from this book in addition to the primary goal of the book by @penrose2006
+
+## References
