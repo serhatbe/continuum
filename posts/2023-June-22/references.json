@@ -1,0 +1,33 @@
+[
+    {
+        "ISBN": "978-1-61180-841-4",
+        "author": [
+            {
+                "family": "Suzuki",
+                "given": "Shunryu"
+            }
+        ],
+        "edition": "Anniversary edition",
+        "id": "suzuki2020",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    2
+                ]
+            ]
+        },
+        "key": "HI53EEYC",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "176",
+        "providerkey": "Zotero",
+        "publisher": "Shambhala",
+        "publisher-place": "Boulder",
+        "source": "Amazon",
+        "title": "Zen Mind, Beginner’s Mind: 50th Anniversary Edition",
+        "title-short": "Zen Mind, Beginner’s Mind",
+        "type": "book"
+    }
+]
