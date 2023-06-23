@@ -7,6 +7,7 @@ categories:
   - 2023
   - Notes
   - Shunryu Suzuki
+  - Beginner's mind
   - Japan
   - Philosophy
   - Life
