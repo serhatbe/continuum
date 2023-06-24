@@ -1,0 +1,70 @@
+[
+    {
+        "ISBN": "978-1-61180-841-4",
+        "author": [
+            {
+                "family": "Suzuki",
+                "given": "Shunryu"
+            }
+        ],
+        "edition": "Anniversary edition",
+        "id": "suzuki2020",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    2
+                ]
+            ]
+        },
+        "key": "HI53EEYC",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "176",
+        "providerkey": "Zotero",
+        "publisher": "Shambhala",
+        "publisher-place": "Boulder",
+        "source": "Amazon",
+        "title": "Zen Mind, Beginner’s Mind: 50th Anniversary Edition",
+        "title-short": "Zen Mind, Beginner’s Mind",
+        "type": "book"
+    },
+    {
+        "ISBN": "978-0-8129-6825-5",
+        "author": [
+            {
+                "family": "Aurelius",
+                "given": "Marcus"
+            }
+        ],
+        "edition": "Revised ed. edition",
+        "id": "aurelius2003",
+        "issued": {
+            "date-parts": [
+                [
+                    2003,
+                    5,
+                    6
+                ]
+            ]
+        },
+        "key": "82PI5RSN",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "256",
+        "providerkey": "Zotero",
+        "publisher": "Modern Library",
+        "publisher-place": "New York",
+        "source": "Amazon",
+        "title": "Meditations: A New Translation",
+        "title-short": "Meditations",
+        "translator": [
+            {
+                "family": "Hays",
+                "given": "Gregory"
+            }
+        ],
+        "type": "book"
+    }
+]

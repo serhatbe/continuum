@@ -1,6 +1,7 @@
 ---
 title: "Right Practice: Posture & Breathing"
 date: "2023-June-22"
+date-modified: "2023-June-23"
 format: 
   html: default
 categories:
@@ -40,4 +41,4 @@ It's not for obtaining the right state of mind, the posture itself is the right 
 
 When we practice zazen our mind always follows or breathing, concentrate on your breathing, the fundamental activity of universal being.
 
-## References
+## Reference(s)

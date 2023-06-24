@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -126,6 +145,12 @@ ul.task-list li input[type="checkbox"] {
       </div>
     </div>
     
+      <div>
+      <div class="quarto-title-meta-heading">Modified</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date-modified">Friday, June 23, 2023</p>
+      </div>
+    </div>
       
     </div>
     
@@ -135,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -143,10 +168,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <ol type="1">
+<li><p>Accept things as they are whether agreeable or disagreeable. <span class="citation" data-cites="suzuki2020">Suzuki (<a href="#ref-suzuki2020" role="doc-biblioref">2020</a>)</span></p></li>
 <li><p>Never lose sight of ultimate purpose, your physical and mental health: You’re sane and breathing this minute and may be gone forever the next minute. (Unknown, probably Aurelius) Maintain your physical fitness and sanity.</p></li>
 <li><p>Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside you, to make your soul grow. – Kurt Vonnegut</p></li>
 <li><p>No hurry, no pause: When you rush, time shrinks. When you’re relaxed, time expands. This is true even though it’s very hard for the mind to get. When you’re relaxed and doing something willingly, you’re participating in life. (Jon Schreiber, Breema Center)</p></li>
-<li><p>You are what you think: Keep an untroubled spirit; for all things must bow to Nature’s Law (Marcus Aurelius)</p></li>
+<li><p>You are what you think: Keep an untroubled spirit; for all things must bow to Nature’s Law <span class="citation" data-cites="aurelius2003">Aurelius (<a href="#ref-aurelius2003" role="doc-biblioref">2003</a>)</span></p></li>
 <li><p>Reflect on what you’ve read and written: Information becomes knowledge by reflection. Reflection cultivates intuition. abundant intuition makes up for lack of information thereby enabling you operate where your knowledge is limited. (Unknown)</p></li>
 <li><p>Give your attention proportioned to the merits of the case: Sometimes full attention, sometimes none. (Unknown)</p></li>
 <li><p>Focus not so much on words but on actual behavior. (Don’t watch his mouth, watch his hands. – Adler’s dictum).</p></li>
@@ -159,24 +185,36 @@ ul.task-list li input[type="checkbox"] {
 <li><p>We read the same facts differently. For an optimist philosopher the universe spells victory, for a pessimist, defeat. (William James, from Pragmatism and Other Writings).</p></li>
 </ol>
 <hr>
-<div class="callout callout-style-simple callout-note no-icon">
-<div class="callout-body d-flex">
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
+<i class="callout-icon"></i>
 </div>
-<div class="callout-body-container">
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
+<li>Revised on 2023-June-23</li>
 <li>Revised on 2023-May-16</li>
 <li>Revised on 2023-February-10</li>
 <li>Revised on 2023-February-07</li>
 </ul>
 </div>
 </div>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-aurelius2003" class="csl-entry" role="listitem">
+Aurelius, Marcus. 2003. <em>Meditations: A New Translation</em>. Translated by Gregory Hays. Revised ed. edition. New York: Modern Library.
 </div>
-
-
-
-</main> <!-- /main -->
+<div id="ref-suzuki2020" class="csl-entry" role="listitem">
+Suzuki, Shunryu. 2020. <em>Zen Mind, Beginner’s Mind: 50th Anniversary Edition</em>. Anniversary edition. Boulder: Shambhala.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
