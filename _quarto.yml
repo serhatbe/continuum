@@ -14,7 +14,8 @@ website:
         href: index.xml
       - icon: github
         href: https://github.com/
-  page-footer:
+    back-to-top-navigation: true
+    page-footer:
     right: "Built with [Quarto](https://quarto.org/)."
 
 format:
