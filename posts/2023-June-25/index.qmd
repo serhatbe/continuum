@@ -1,0 +1,19 @@
+---
+title: "Pareto Distribution"
+date: "2023-June-25"
+#date-modified: "2023-June-xx"
+format: 
+  html: default
+categories:
+  - 2023
+  - Notes
+  - Vilfredo Pareto
+  - Polymath
+  - Philosophy
+---
+
+# The 80-20 Rule
+
+While not as well-known as the bell-shaped Normal (Gaussian) distribution, the Pareto distribution is a powerful tool for modeling a variety of real-life phenomena. It is named after the Italian economist [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) (1848-1923), who developed the distribution in the 1890s as a way to describe the allocation of wealth in society. He famously observed that 80% of society's wealth was controlled by 20% of its population, a concept now known as the "Pareto Principle" or the "80-20 Rule". [Source](https://dlab.berkeley.edu/news/explaining-80-20-rule-pareto-distribution).
+
+Also see [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)and [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
