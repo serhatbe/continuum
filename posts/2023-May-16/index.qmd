@@ -1,7 +1,7 @@
 ---
 title: "n Rules for Life"
 date: "2023-May-16"
-date-modified: "2023-June-23"
+date-modified: "2023-June-25"
 format: 
   html: default
   #pdf: default
@@ -42,9 +42,12 @@ bibliography: references.json
 
 15. We read the same facts differently. For an optimist philosopher the universe spells victory, for a pessimist, defeat. (William James, from Pragmatism and Other Writings).
 
+16. Roughly 80% of outcomes come from 20% of causes (see Pareto principle).
+
 ------------------------------------------------------------------------
 
 ::: callout-note
+-   Revised on 2023-June-25
 -   Revised on 2023-June-23
 -   Revised on 2023-May-16
 -   Revised on 2023-February-10
