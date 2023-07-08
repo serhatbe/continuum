@@ -1,13 +1,13 @@
 ---
 title: "Fake News"
 date: "2023-June-7"
+date-modified: "2023-June-26"
 categories:
   - 2023
   - Notes
+bibliography: references.json
 ---
 
-The greatest worry about the idea of fake news isn't actually that people believe false news - it's that they stop believing real news. Phillips (2020)
+The greatest worry about the idea of fake news isn't actually that people believe false news - it's that they stop believing real news. @phillips2020
 
 ### Reference
-
-Phillips, T. (2020). *Truth: a brief history of total bullsh*t\*.

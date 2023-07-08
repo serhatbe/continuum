@@ -1,0 +1,28 @@
+[
+    {
+        "ISBN": "978-1-4722-6320-9",
+        "author": [
+            {
+                "family": "Phillips",
+                "given": "Tom"
+            }
+        ],
+        "id": "phillips2020",
+        "issued": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "key": "5M99TMUC",
+        "language": "English",
+        "libraryid": "1",
+        "oclc": "1091684955",
+        "providerkey": "Zotero",
+        "source": "Open WorldCat",
+        "title": "Truth: a brief history of total bullsh*t",
+        "title-short": "Truth",
+        "type": "book"
+    }
+]
