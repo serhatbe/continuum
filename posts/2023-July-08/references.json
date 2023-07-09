@@ -1,0 +1,25 @@
+[
+    {
+        "ISBN": "978-0-9814846-0-0",
+        "URL": "http://www.librarything.com/work/815/book/170017628",
+        "author": [
+            {
+                "family": "Koren",
+                "given": "Leonard"
+            }
+        ],
+        "id": "koren2008",
+        "issued": {
+            "date-parts": [
+                [
+                    2008
+                ]
+            ]
+        },
+        "key": "H5HJD82H",
+        "libraryid": "1",
+        "providerkey": "Zotero",
+        "title": "Wabi-Sabi for Artists, Designers, Poets & Philosophers",
+        "type": "book"
+    }
+]

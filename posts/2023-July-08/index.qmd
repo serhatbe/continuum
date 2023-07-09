@@ -1,0 +1,25 @@
+---
+title: "Wabi-Sabi"
+date: "2023-July-8"
+#date-modified: "2023-June-xx"
+format: 
+  html: default
+categories:
+  - 2023
+  - Notes
+  - Japan
+  - Philosophy
+  - Life
+  - Perfectionism
+bibliography: references.json
+---
+
+## Brief Summary
+
+In traditional Japanese aesthetics **wabi-sabi** (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is "imperfect, impermanent, and incomplete" in nature. [Source](https://en.wikipedia.org/wiki/Wabi-sabi)
+
+## Book Notes
+
+See @koren2008
+
+## References

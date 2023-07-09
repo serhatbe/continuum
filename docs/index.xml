@@ -10,7 +10,44 @@
 <atom:link href="https://serhatbe.github.io/continuum/index.xml" rel="self" type="application/rss+xml"/>
 <description>random notes and daily miscellany</description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Sun, 25 Jun 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Jul 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wabi-Sabi</title>
+  <link>https://serhatbe.github.io/continuum/posts/2023-July-08/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="brief-summary" class="level2">
+<h2 class="anchored" data-anchor-id="brief-summary">Brief Summary</h2>
+<p>In traditional Japanese aesthetics <strong>wabi-sabi</strong> (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is “imperfect, impermanent, and incomplete” in nature. <a href="https://en.wikipedia.org/wiki/Wabi-sabi">Source</a></p>
+</section>
+<section id="book-notes" class="level2">
+<h2 class="anchored" data-anchor-id="book-notes">Book Notes</h2>
+<p>See <span class="citation" data-cites="koren2008">Koren (2008)</span></p>
+</section>
+<section id="references" class="level2">
+
+
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-koren2008" class="csl-entry">
+Koren, Leonard. 2008. <em>Wabi-Sabi for Artists, Designers, Poets &amp; Philosophers</em>. <a href="http://www.librarything.com/work/815/book/170017628">http://www.librarything.com/work/815/book/170017628</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>2023</category>
+  <category>Notes</category>
+  <category>Japan</category>
+  <category>Philosophy</category>
+  <category>Life</category>
+  <category>Perfectionism</category>
+  <guid>https://serhatbe.github.io/continuum/posts/2023-July-08/index.html</guid>
+  <pubDate>Sat, 08 Jul 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Pareto Distribution</title>
   <link>https://serhatbe.github.io/continuum/posts/2023-June-25/index.html</link>
@@ -749,26 +786,6 @@ Murakami, Haruki. 2022. <em>Novelist as a Vocation</em>. Translated by Philip Ga
   <category>Perfectionism</category>
   <guid>https://serhatbe.github.io/continuum/posts/2023-June-5/index.html</guid>
   <pubDate>Mon, 05 Jun 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Anger &amp; Wholesome Way</title>
-  <link>https://serhatbe.github.io/continuum/posts/2023-June-4/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Anger hurts you instead of the problem that generates it.</p>
-<p>Thus, try to maintain a merely disappointed and annoyed attitude.</p>
-<p>A more wholesome way to make a change, instead of becoming minimalist, vegan or move into a tiny house.</p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>2023</category>
-  <category>Philosophy</category>
-  <guid>https://serhatbe.github.io/continuum/posts/2023-June-4/index.html</guid>
-  <pubDate>Sun, 04 Jun 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
