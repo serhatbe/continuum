@@ -126,228 +126,25 @@
     "text": "What is a Haiku?\nThe haiku is a Japanese poetic form that consists of three lines, with five syllables in the first line, seven in the second, and five in the third. The haiku developed from the hokku, the opening three lines of a longer poem known as a tanka. The haiku became a separate form of poetry in the 17th century.\nThe haiku began gaining mainstream recognition outside Japan in the early 20th century. In the English-speaking world, the form was popularized by Imagists such as Ezra Pound and later by Beat poets such as Allen Ginsberg.\nSee this link."
   },
   {
-    "objectID": "posts/2023-June-1/index.html",
-    "href": "posts/2023-June-1/index.html",
-    "title": "Killing Commendatore",
+    "objectID": "posts/2023-July-08/index.html",
+    "href": "posts/2023-July-08/index.html",
+    "title": "Wabi-Sabi",
     "section": "",
-    "text": "A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one’s own satisfaction, live in solitude, get better at what one does and make art. Murakami (2019)"
+    "text": "In traditional Japanese aesthetics wabi-sabi (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is “imperfect, impermanent, and incomplete” in nature. Source"
   },
   {
-    "objectID": "posts/2023-June-1/index.html#brief-summary",
-    "href": "posts/2023-June-1/index.html#brief-summary",
-    "title": "Killing Commendatore",
+    "objectID": "posts/2023-July-08/index.html#brief-summary",
+    "href": "posts/2023-July-08/index.html#brief-summary",
+    "title": "Wabi-Sabi",
     "section": "",
-    "text": "A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one’s own satisfaction, live in solitude, get better at what one does and make art. Murakami (2019)"
+    "text": "In traditional Japanese aesthetics wabi-sabi (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is “imperfect, impermanent, and incomplete” in nature. Source"
   },
   {
-    "objectID": "posts/2023-June-7/index.html",
-    "href": "posts/2023-June-7/index.html",
-    "title": "Ultimate Satisfaction",
-    "section": "",
-    "text": "Success or failure is not relevant but the ultimate satisfaction is the process of performing those small rituals. Mogi (2018)\nAlso see Zanshin\n\n\n\n\n Back to topReferences\n\nMogi, Ken. 2018. The Little Book of Ikigai: The secret Japanese way to live a happy and long life. London: Hodder."
-  },
-  {
-    "objectID": "posts/2023-May-18/index.html",
-    "href": "posts/2023-May-18/index.html",
-    "title": "Compromises",
-    "section": "",
-    "text": "I tried several options:\n\nStatic site generators, Jekyll-based options and Python scripts\nSimple html files using Notepad++ to build a website to hold my notes\n\nThen I’m back to .md files using Zettlr, because it supports:\n\nMath typesetting i.e. good \\(\\LaTeX\\) support.\nEasy input of more commands in .md than in .html using Notepad++\nEasy .html and .pdf generation\nCitation built-in with Zotero\n\nBut I discovered Quarto which is a scientific and technical publishing system utilizing Pandoc. It does everything Zettlr does but in style. But Zettlr is still best for raw note-taking."
-  },
-  {
-    "objectID": "posts/2023-May-18/index.html#choices",
-    "href": "posts/2023-May-18/index.html#choices",
-    "title": "Compromises",
-    "section": "",
-    "text": "I tried several options:\n\nStatic site generators, Jekyll-based options and Python scripts\nSimple html files using Notepad++ to build a website to hold my notes\n\nThen I’m back to .md files using Zettlr, because it supports:\n\nMath typesetting i.e. good \\(\\LaTeX\\) support.\nEasy input of more commands in .md than in .html using Notepad++\nEasy .html and .pdf generation\nCitation built-in with Zotero\n\nBut I discovered Quarto which is a scientific and technical publishing system utilizing Pandoc. It does everything Zettlr does but in style. But Zettlr is still best for raw note-taking."
-  },
-  {
-    "objectID": "posts/2023-May-16/index.html",
-    "href": "posts/2023-May-16/index.html",
-    "title": "n Rules for Life",
-    "section": "",
-    "text": "Accept things as they are whether agreeable or disagreeable. Suzuki (2020)\nNever lose sight of ultimate purpose, your physical and mental health: You’re sane and breathing this minute and may be gone forever the next minute. (Unknown, probably Aurelius) Maintain your physical fitness and sanity.\nPractice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside you, to make your soul grow. – Kurt Vonnegut\nNo hurry, no pause: When you rush, time shrinks. When you’re relaxed, time expands. This is true even though it’s very hard for the mind to get. When you’re relaxed and doing something willingly, you’re participating in life. (Jon Schreiber, Breema Center)\nYou are what you think: Keep an untroubled spirit; for all things must bow to Nature’s Law Aurelius (2003)\nReflect on what you’ve read and written: Information becomes knowledge by reflection. Reflection cultivates intuition. abundant intuition makes up for lack of information thereby enabling you operate where your knowledge is limited. (Unknown)\nGive your attention proportioned to the merits of the case: Sometimes full attention, sometimes none. (Unknown)\nFocus not so much on words but on actual behavior. (Don’t watch his mouth, watch his hands. – Adler’s dictum).\nDo not try to stay on top of things (you cannot). Instead try to get to the bottom of things. (This kind of success, while not guaranteed, will be more fulfilling than the former).\nIt is more important to invest in good people than in good ideas. (bet on the jockey not the horse).\nWork expands to fill the time available for its completion (Parkinson’s law).\nPerceive those things which cannot be seen (e.g. pay attention even to trifles). And do nothing which is of no use. (Miyamoto Musashi)\nOne who makes a show of valor is hated by others, even he achieves something, it is not praised but denied. (Kumazawa Banzan)\nIn the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.\nWe read the same facts differently. For an optimist philosopher the universe spells victory, for a pessimist, defeat. (William James, from Pragmatism and Other Writings).\nRoughly 80% of outcomes come from 20% of causes (see Pareto principle).\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nRevised on 2023-June-25\nRevised on 2023-June-23\nRevised on 2023-May-16\nRevised on 2023-February-10\nRevised on 2023-February-07\n\n\n\n\n\n\n\n Back to topReferences\n\nAurelius, Marcus. 2003. Meditations: A New Translation. Translated by Gregory Hays. Revised ed. edition. New York: Modern Library.\n\n\nSuzuki, Shunryu. 2020. Zen Mind, Beginner’s Mind: 50th Anniversary Edition. Anniversary edition. Boulder: Shambhala."
-  },
-  {
-    "objectID": "posts/2023-June-7a/index.html",
-    "href": "posts/2023-June-7a/index.html",
-    "title": "Effort vs Results",
-    "section": "",
-    "text": "Do not confuse effort with results.\nJust because you put in the effort does not mean you’ll get the desired result.\nA lot of effort gets undone long before results are felt. Going to the gym is undone if you eat poorly. Focusing only on work gets undone by the inevitable health and relationship issues that come from under-investment. When we try to speed up the outcome, our lack of patience undoes the result.\n\n\n\n\n\n\nCaution\n\n\n\nResults are accumulated in drops but lost in buckets.Make sure you’re not undoing the things you’re trying to accomplish.\n\n\n\nSometimes the hardest decisions a person can make will most likely lead to the best outcomes. - Colleen Hoover.\n\n🆚\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "posts/2023-June-22/index.html",
-    "href": "posts/2023-June-22/index.html",
-    "title": "Right Practice: Posture & Breathing",
-    "section": "",
-    "text": "Zazen practice is the direct expression of our true nature. Suzuki (2020)\n\n\nIt’s not for obtaining the right state of mind, the posture itself is the right state of mind.\n\nKeep your spine straight.\nIn posture, you’re not one or not two. Body and mind is both.\nOur body and mind shouldn’t be wobbling or wandering, right posture will bring you a steady state. But it’s not about right state of mind, the posture itself is the right state of mind.\nKeep right posture in everything you do.\nWhen you try to attain something, your mind starts to wander about somewhere else. When you do not try to attain anything, you have your own body and mind right here.\nWhen we have our body and mind in order, everything else will exist in the right place, in the right way.\nEnlightenment is not some good feeling or some particular state of mind. The state of mind that exists when you sit in the right posture is, itself, enlightenment.\n\n\n\n\nWhen we practice zazen our mind always follows or breathing, concentrate on your breathing, the fundamental activity of universal being."
-  },
-  {
-    "objectID": "posts/2023-June-22/index.html#right-practice",
-    "href": "posts/2023-June-22/index.html#right-practice",
-    "title": "Right Practice: Posture & Breathing",
-    "section": "",
-    "text": "Zazen practice is the direct expression of our true nature. Suzuki (2020)\n\n\nIt’s not for obtaining the right state of mind, the posture itself is the right state of mind.\n\nKeep your spine straight.\nIn posture, you’re not one or not two. Body and mind is both.\nOur body and mind shouldn’t be wobbling or wandering, right posture will bring you a steady state. But it’s not about right state of mind, the posture itself is the right state of mind.\nKeep right posture in everything you do.\nWhen you try to attain something, your mind starts to wander about somewhere else. When you do not try to attain anything, you have your own body and mind right here.\nWhen we have our body and mind in order, everything else will exist in the right place, in the right way.\nEnlightenment is not some good feeling or some particular state of mind. The state of mind that exists when you sit in the right posture is, itself, enlightenment.\n\n\n\n\nWhen we practice zazen our mind always follows or breathing, concentrate on your breathing, the fundamental activity of universal being."
-  },
-  {
-    "objectID": "posts/2023-June-15/index.html",
-    "href": "posts/2023-June-15/index.html",
-    "title": "On Human Stupidity",
-    "section": "",
-    "text": "Non-stupid people always underestimate the damaging power of stupid people. In particular, they constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake. Cipolla and Taleb (2021)\nHelpless people are through their own nature will fail to recognize how dangerous stupid people are. Intelligent people and bandits also are tempted to believe or associate themselves with a stupid individual. However this can have a disastrous effects:\n\nIt is based on a complete misunderstanding of the essential nature of stupidity,\nIt gives the stupid person added scope for the exercise of his gifts."
-  },
-  {
-    "objectID": "posts/2023-June-15/index.html#the-fourth-law-of-stupidity",
-    "href": "posts/2023-June-15/index.html#the-fourth-law-of-stupidity",
-    "title": "On Human Stupidity",
-    "section": "",
-    "text": "Non-stupid people always underestimate the damaging power of stupid people. In particular, they constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake. Cipolla and Taleb (2021)\nHelpless people are through their own nature will fail to recognize how dangerous stupid people are. Intelligent people and bandits also are tempted to believe or associate themselves with a stupid individual. However this can have a disastrous effects:\n\nIt is based on a complete misunderstanding of the essential nature of stupidity,\nIt gives the stupid person added scope for the exercise of his gifts."
-  },
-  {
-    "objectID": "posts/2023-June-15/index.html#avoid-stupid-people",
-    "href": "posts/2023-June-15/index.html#avoid-stupid-people",
-    "title": "On Human Stupidity",
-    "section": "Avoid Stupid People",
-    "text": "Avoid Stupid People\nBecause of the erratic behavior of the stupid, one cannot foresee all the stupid’s actions and reactions, and before long one will be pulverized by the unpredictable moves of the stupid partner."
-  },
-  {
-    "objectID": "posts/2023-June-15/index.html#history",
-    "href": "posts/2023-June-15/index.html#history",
-    "title": "On Human Stupidity",
-    "section": "History",
-    "text": "History\nIn public and private life, innumerable individuals have failed to understand the Fourth Law. The failure has caused incalculable losses in the history of mankind."
-  },
-  {
-    "objectID": "posts/2023-June-12/index.html",
-    "href": "posts/2023-June-12/index.html",
-    "title": "The Case for Daydreaming",
-    "section": "",
-    "text": "In neuroscience, the default mode network (DMN), also known as the default network, default state network is best known for being active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. It can also be active during detailed thoughts related to external task performance. Other times that the DMN is active include when the individual is thinking about others, thinking about themselves, remembering the past, and planning for the future. (See Default mode network)"
-  },
-  {
-    "objectID": "posts/2023-June-12/index.html#default-mode-network",
-    "href": "posts/2023-June-12/index.html#default-mode-network",
-    "title": "The Case for Daydreaming",
-    "section": "",
-    "text": "In neuroscience, the default mode network (DMN), also known as the default network, default state network is best known for being active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. It can also be active during detailed thoughts related to external task performance. Other times that the DMN is active include when the individual is thinking about others, thinking about themselves, remembering the past, and planning for the future. (See Default mode network)"
-  },
-  {
-    "objectID": "posts/2023-June-12/index.html#mind-wandering",
-    "href": "posts/2023-June-12/index.html#mind-wandering",
-    "title": "The Case for Daydreaming",
-    "section": "Mind-wandering",
-    "text": "Mind-wandering\nMind-wandering is a broad term with no currently universal definition. According to McMillan, Kaufmann and Singer (2013) mind-wandering consists of 3 different subtypes: positive constructive daydreaming, guilty fear of failure, and poor attentional control. Whereas Smallwood and Schooler (2015) suggest that mind-wandering consists of thoughts that are task-unrelated and stimulus-independent. In general, a folk explanation of mind-wandering could be described as the experience of thoughts not remaining on a single topic for a long period of time, particularly when people are engaged in an attention-demanding task. (See Mind-wandering)"
-  },
-  {
-    "objectID": "posts/2023-June-12/index.html#key-takeaways-from-ubc-magazine",
-    "href": "posts/2023-June-12/index.html#key-takeaways-from-ubc-magazine",
-    "title": "The Case for Daydreaming",
-    "section": "Key Takeaways from UBC Magazine",
-    "text": "Key Takeaways from UBC Magazine\nIn a cumulative and worrying way, the smart phones might be making us stupid.\nThis is no mere speculation. On the increasingly rare occasion when we let our minds wander, the blood in our brains rushes to what is called the default network.\nThe default network: a vital support centre for spontaneous thought, a creative space that helps us through our thoughts and experiences. But goal driven thinking happens in another part of the brain, disconnects us from the fullness of our experience. (See Kalina Christoff)"
-  },
-  {
-    "objectID": "posts/2023-June-25/index.html",
-    "href": "posts/2023-June-25/index.html",
-    "title": "Pareto Distribution",
-    "section": "",
-    "text": "The 80-20 Rule\nWhile not as well-known as the bell-shaped Normal (Gaussian) distribution, the Pareto distribution is a powerful tool for modeling a variety of real-life phenomena. It is named after the Italian economist Vilfredo Pareto (1848-1923), who developed the distribution in the 1890s as a way to describe the allocation of wealth in society. He famously observed that 80% of society’s wealth was controlled by 20% of its population, a concept now known as the “Pareto Principle” or the “80-20 Rule”. Source.\nAlso see Pareto efficiency and Parkinson’s Law.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "posts/2023-June-14/index.html",
-    "href": "posts/2023-June-14/index.html",
-    "title": "Random Notes",
-    "section": "",
-    "text": "The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. Cipolla and Taleb (2021)"
-  },
-  {
-    "objectID": "posts/2023-June-14/index.html#imprecision",
-    "href": "posts/2023-June-14/index.html#imprecision",
-    "title": "Random Notes",
-    "section": "",
-    "text": "The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. Cipolla and Taleb (2021)"
-  },
-  {
-    "objectID": "posts/2023-June-14/index.html#vacation",
-    "href": "posts/2023-June-14/index.html#vacation",
-    "title": "Random Notes",
-    "section": "Vacation",
-    "text": "Vacation\nVacation is when you forget what day it is and I can hardly tell what day it was when we were travelling to Tofino.\n\nRelaxing brings weakness, when done by a muscle; but brings strength, when done by a person.” ― Mokokoma Mokhonoana"
-  },
-  {
-    "objectID": "posts/2023-June-14/index.html#focusing-illusion",
-    "href": "posts/2023-June-14/index.html#focusing-illusion",
-    "title": "Random Notes",
-    "section": "Focusing Illusion",
-    "text": "Focusing Illusion\nThe idea that you can be focused on a particular aspect of life, so much so that you can believe that your whole happiness depends on it. In having a focusing illusion, you create your own reason for feeling unhappy. Mogi (2018)\nIf unhappiness is a vacuum in which the required element is absent, the vacuum is created by the biased imagination of the subject. There is no absolute formula for happiness - each unique condition of life can serve as the foundation for happiness in its own unique way. Mogi (2018)"
-  },
-  {
-    "objectID": "posts/2023-June-14/index.html#how-to-fix",
-    "href": "posts/2023-June-14/index.html#how-to-fix",
-    "title": "Random Notes",
-    "section": "How to Fix?",
-    "text": "How to Fix?\nFrom Seth’s blog (link)\n\nOne reason we have so much trouble fixing chronic degenerative conditions is that we need to remove elements before we can start building new functions. If we simply put effort on top of a shaky foundation, it’ll all be wasted. The best way forward might be to take a few steps back."
-  },
-  {
-    "objectID": "posts/2023-June-13/index.html",
-    "href": "posts/2023-June-13/index.html",
-    "title": "Human Stupidity",
-    "section": "",
-    "text": "Reasonable people have q hard time imagining unreasonable behavior. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See Cipolla and Taleb (2021))\nA stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you’re completely at his mercy. Because the stupid person’s actions do not conform to the rules of rationality. From all that proceeds:\n\nYou’re caught by surprise.\nYou cannot build a rational defense because the attack lacks any rational structure."
-  },
-  {
-    "objectID": "posts/2023-June-13/index.html#the-third-law-of-stupidity",
-    "href": "posts/2023-June-13/index.html#the-third-law-of-stupidity",
-    "title": "Human Stupidity",
-    "section": "",
-    "text": "Reasonable people have q hard time imagining unreasonable behavior. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See Cipolla and Taleb (2021))\nA stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you’re completely at his mercy. Because the stupid person’s actions do not conform to the rules of rationality. From all that proceeds:\n\nYou’re caught by surprise.\nYou cannot build a rational defense because the attack lacks any rational structure."
-  },
-  {
-    "objectID": "posts/2023-June-13/index.html#frequency-distribution",
-    "href": "posts/2023-June-13/index.html#frequency-distribution",
-    "title": "Human Stupidity",
-    "section": "Frequency Distribution",
-    "text": "Frequency Distribution\nMost people do not act consistently, they will act intelligently one time and helplessly another. Stupid people normally show perfect consistency in all fields of human endeavors.\nCipolla and Taleb (2021) classify four types of people, comments are mine:\n\nHelpless: Identify and help the helpless.\nIntelligent: Identify and surround yourself with intelligent people.\nBandit: Identify and utilize bandits with great caution when circumstances demand it.\nStupid: Identify and isolate stupid people from your daily life, especially at work."
-  },
-  {
-    "objectID": "posts/2023-June-13/index.html#stupidity-and-power",
-    "href": "posts/2023-June-13/index.html#stupidity-and-power",
-    "title": "Human Stupidity",
-    "section": "Stupidity and Power",
-    "text": "Stupidity and Power\nDamaging potential of stupidity is a function of:\n\nGenetic factors and the resulting inheritance\nThe position of power and consequences"
-  },
-  {
-    "objectID": "posts/2023-June-13/index.html#key-takeaways",
-    "href": "posts/2023-June-13/index.html#key-takeaways",
-    "title": "Human Stupidity",
-    "section": "Key Takeaways",
-    "text": "Key Takeaways\nThe world has changed but the fraction \\(\\sigma\\)1 is till maintained. In Industrial world, class and caste have turned into politics and bureaucracy and the religion has faded away:\n\n\n\n\ngraph LR;\n    id1(Industrial World)--&gt;Class;\n    id1(Industrial World)--&gt;Caste;\n    Class--&gt;Banished;\n    Caste--&gt;Banished;\n\n\n\n\n\n\n\n\n\ngraph LR;\n    id1(Industrial World)--&gt;Politics;\n    id1(Industrial World)--&gt;Bureaucracy;\n    Politics--&gt;Persists;\n    Bureaucracy--&gt;Persists;\n\n\n\n\n\nAlso see: The Basic Laws of Human Stupidity"
-  },
-  {
-    "objectID": "posts/2023-June-13/index.html#footnotes",
-    "href": "posts/2023-June-13/index.html#footnotes",
-    "title": "Human Stupidity",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nFraction of stupid people within a population is denoted by the symbol \\(\\sigma\\). No specific numerical value is assigned as a numerical estimate would likely be an underestimate.↩︎"
-  },
-  {
-    "objectID": "posts/2023-May-27/index.html",
-    "href": "posts/2023-May-27/index.html",
-    "title": "Zanshin",
-    "section": "",
-    "text": "Zanshin is a word used commonly throughout Japanese martial arts to refer to a state of relaxed alertness. Literally translated, zanshin means “the mind with no remainder.” In other words, the mind completely focused on action and fixated on the task at hand. Zanshin is being constantly aware of your body, mind, and surroundings without stressing yourself. It is an effortless vigilance.\nIn practice, though, zanshin has an even deeper meaning. Zanshin is choosing to live your life intentionally and acting with purpose rather than mindlessly falling victim to whatever comes your way.\nWe can carry this philosophy into many areas of life.\n\nWriting: The battle does not end when you publish a book. It ends when you consider yourself a finished product, when you lose the vigilance needed to continue improving your craft.\nFitness: The battle does not end when you hit a PR. It ends when you lose concentration and skip workouts or when you lose perspective and overtrain.\n\n\n\n\n\n\n\nImportant\n\n\n\nThe enemy of improvement is neither failure nor success. The enemy of improvement is boredom, fatigue, and lack of concentration. The enemy of improvement is a lack of commitment to the process because the process is everything.\n\n\nAlso see this and Zanshin"
-  },
-  {
-    "objectID": "posts/2023-May-27/index.html#brief-summary",
-    "href": "posts/2023-May-27/index.html#brief-summary",
-    "title": "Zanshin",
-    "section": "",
-    "text": "Zanshin is a word used commonly throughout Japanese martial arts to refer to a state of relaxed alertness. Literally translated, zanshin means “the mind with no remainder.” In other words, the mind completely focused on action and fixated on the task at hand. Zanshin is being constantly aware of your body, mind, and surroundings without stressing yourself. It is an effortless vigilance.\nIn practice, though, zanshin has an even deeper meaning. Zanshin is choosing to live your life intentionally and acting with purpose rather than mindlessly falling victim to whatever comes your way.\nWe can carry this philosophy into many areas of life.\n\nWriting: The battle does not end when you publish a book. It ends when you consider yourself a finished product, when you lose the vigilance needed to continue improving your craft.\nFitness: The battle does not end when you hit a PR. It ends when you lose concentration and skip workouts or when you lose perspective and overtrain.\n\n\n\n\n\n\n\nImportant\n\n\n\nThe enemy of improvement is neither failure nor success. The enemy of improvement is boredom, fatigue, and lack of concentration. The enemy of improvement is a lack of commitment to the process because the process is everything.\n\n\nAlso see this and Zanshin"
-  },
-  {
-    "objectID": "posts/2023-June-9/index.html",
-    "href": "posts/2023-June-9/index.html",
-    "title": "Truth-default Theory",
-    "section": "",
-    "text": "Proposed by philosophers and recently supported by experimental psychologists, there’s considerable evidence showing that if we hear something, we assume it to be true. This tendency is sometimes referred to as truth-default theory.\n\nTruth Bias\nTruth bias is people’s inclination towards believing, to some degree, the communication of another person, regardless of whether or not that person is actually lying or being untruthful It is human nature to believe communication is honest, which in turn makes humans highly vulnerable to deception. Consequently, a person’s ability to detect deception is weakened, particularly when the source of deception is unfamiliar. As long as a person already has the perception that everything they are told is true, they are still considered to be truth-biased. (See “Truth Bias”).\n\n\n\n\n Back to top"
+    "objectID": "posts/2023-July-08/index.html#book-notes",
+    "href": "posts/2023-July-08/index.html#book-notes",
+    "title": "Wabi-Sabi",
+    "section": "Book Notes",
+    "text": "Book Notes\nSee Koren (2008)"
   },
   {
     "objectID": "posts/2023-June-6/index.html",
@@ -404,6 +201,230 @@
     "title": "Nocturne A2",
     "section": "Video",
     "text": "Video"
+  },
+  {
+    "objectID": "posts/2023-June-9/index.html",
+    "href": "posts/2023-June-9/index.html",
+    "title": "Truth-default Theory",
+    "section": "",
+    "text": "Proposed by philosophers and recently supported by experimental psychologists, there’s considerable evidence showing that if we hear something, we assume it to be true. This tendency is sometimes referred to as truth-default theory.\n\nTruth Bias\nTruth bias is people’s inclination towards believing, to some degree, the communication of another person, regardless of whether or not that person is actually lying or being untruthful It is human nature to believe communication is honest, which in turn makes humans highly vulnerable to deception. Consequently, a person’s ability to detect deception is weakened, particularly when the source of deception is unfamiliar. As long as a person already has the perception that everything they are told is true, they are still considered to be truth-biased. (See “Truth Bias”).\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2023-May-27/index.html",
+    "href": "posts/2023-May-27/index.html",
+    "title": "Zanshin",
+    "section": "",
+    "text": "Zanshin is a word used commonly throughout Japanese martial arts to refer to a state of relaxed alertness. Literally translated, zanshin means “the mind with no remainder.” In other words, the mind completely focused on action and fixated on the task at hand. Zanshin is being constantly aware of your body, mind, and surroundings without stressing yourself. It is an effortless vigilance.\nIn practice, though, zanshin has an even deeper meaning. Zanshin is choosing to live your life intentionally and acting with purpose rather than mindlessly falling victim to whatever comes your way.\nWe can carry this philosophy into many areas of life.\n\nWriting: The battle does not end when you publish a book. It ends when you consider yourself a finished product, when you lose the vigilance needed to continue improving your craft.\nFitness: The battle does not end when you hit a PR. It ends when you lose concentration and skip workouts or when you lose perspective and overtrain.\n\n\n\n\n\n\n\nImportant\n\n\n\nThe enemy of improvement is neither failure nor success. The enemy of improvement is boredom, fatigue, and lack of concentration. The enemy of improvement is a lack of commitment to the process because the process is everything.\n\n\nAlso see this and Zanshin"
+  },
+  {
+    "objectID": "posts/2023-May-27/index.html#brief-summary",
+    "href": "posts/2023-May-27/index.html#brief-summary",
+    "title": "Zanshin",
+    "section": "",
+    "text": "Zanshin is a word used commonly throughout Japanese martial arts to refer to a state of relaxed alertness. Literally translated, zanshin means “the mind with no remainder.” In other words, the mind completely focused on action and fixated on the task at hand. Zanshin is being constantly aware of your body, mind, and surroundings without stressing yourself. It is an effortless vigilance.\nIn practice, though, zanshin has an even deeper meaning. Zanshin is choosing to live your life intentionally and acting with purpose rather than mindlessly falling victim to whatever comes your way.\nWe can carry this philosophy into many areas of life.\n\nWriting: The battle does not end when you publish a book. It ends when you consider yourself a finished product, when you lose the vigilance needed to continue improving your craft.\nFitness: The battle does not end when you hit a PR. It ends when you lose concentration and skip workouts or when you lose perspective and overtrain.\n\n\n\n\n\n\n\nImportant\n\n\n\nThe enemy of improvement is neither failure nor success. The enemy of improvement is boredom, fatigue, and lack of concentration. The enemy of improvement is a lack of commitment to the process because the process is everything.\n\n\nAlso see this and Zanshin"
+  },
+  {
+    "objectID": "posts/2023-June-13/index.html",
+    "href": "posts/2023-June-13/index.html",
+    "title": "Human Stupidity",
+    "section": "",
+    "text": "Reasonable people have q hard time imagining unreasonable behavior. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See Cipolla and Taleb (2021))\nA stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you’re completely at his mercy. Because the stupid person’s actions do not conform to the rules of rationality. From all that proceeds:\n\nYou’re caught by surprise.\nYou cannot build a rational defense because the attack lacks any rational structure."
+  },
+  {
+    "objectID": "posts/2023-June-13/index.html#the-third-law-of-stupidity",
+    "href": "posts/2023-June-13/index.html#the-third-law-of-stupidity",
+    "title": "Human Stupidity",
+    "section": "",
+    "text": "Reasonable people have q hard time imagining unreasonable behavior. A stupid person is one who causes harm to others while gaining nothing and even harming himself in doing so. (See Cipolla and Taleb (2021))\nA stupid person will harass you with no reason. You have no rational way of telling if and when and how and why the stupid creature attacks. When confronted with a stupid individual, you’re completely at his mercy. Because the stupid person’s actions do not conform to the rules of rationality. From all that proceeds:\n\nYou’re caught by surprise.\nYou cannot build a rational defense because the attack lacks any rational structure."
+  },
+  {
+    "objectID": "posts/2023-June-13/index.html#frequency-distribution",
+    "href": "posts/2023-June-13/index.html#frequency-distribution",
+    "title": "Human Stupidity",
+    "section": "Frequency Distribution",
+    "text": "Frequency Distribution\nMost people do not act consistently, they will act intelligently one time and helplessly another. Stupid people normally show perfect consistency in all fields of human endeavors.\nCipolla and Taleb (2021) classify four types of people, comments are mine:\n\nHelpless: Identify and help the helpless.\nIntelligent: Identify and surround yourself with intelligent people.\nBandit: Identify and utilize bandits with great caution when circumstances demand it.\nStupid: Identify and isolate stupid people from your daily life, especially at work."
+  },
+  {
+    "objectID": "posts/2023-June-13/index.html#stupidity-and-power",
+    "href": "posts/2023-June-13/index.html#stupidity-and-power",
+    "title": "Human Stupidity",
+    "section": "Stupidity and Power",
+    "text": "Stupidity and Power\nDamaging potential of stupidity is a function of:\n\nGenetic factors and the resulting inheritance\nThe position of power and consequences"
+  },
+  {
+    "objectID": "posts/2023-June-13/index.html#key-takeaways",
+    "href": "posts/2023-June-13/index.html#key-takeaways",
+    "title": "Human Stupidity",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\nThe world has changed but the fraction \\(\\sigma\\)1 is till maintained. In Industrial world, class and caste have turned into politics and bureaucracy and the religion has faded away:\n\n\n\n\ngraph LR;\n    id1(Industrial World)--&gt;Class;\n    id1(Industrial World)--&gt;Caste;\n    Class--&gt;Banished;\n    Caste--&gt;Banished;\n\n\n\n\n\n\n\n\n\ngraph LR;\n    id1(Industrial World)--&gt;Politics;\n    id1(Industrial World)--&gt;Bureaucracy;\n    Politics--&gt;Persists;\n    Bureaucracy--&gt;Persists;\n\n\n\n\n\nAlso see: The Basic Laws of Human Stupidity"
+  },
+  {
+    "objectID": "posts/2023-June-13/index.html#footnotes",
+    "href": "posts/2023-June-13/index.html#footnotes",
+    "title": "Human Stupidity",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFraction of stupid people within a population is denoted by the symbol \\(\\sigma\\). No specific numerical value is assigned as a numerical estimate would likely be an underestimate.↩︎"
+  },
+  {
+    "objectID": "posts/2023-June-14/index.html",
+    "href": "posts/2023-June-14/index.html",
+    "title": "Random Notes",
+    "section": "",
+    "text": "The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. Cipolla and Taleb (2021)"
+  },
+  {
+    "objectID": "posts/2023-June-14/index.html#imprecision",
+    "href": "posts/2023-June-14/index.html#imprecision",
+    "title": "Random Notes",
+    "section": "",
+    "text": "The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. Cipolla and Taleb (2021)"
+  },
+  {
+    "objectID": "posts/2023-June-14/index.html#vacation",
+    "href": "posts/2023-June-14/index.html#vacation",
+    "title": "Random Notes",
+    "section": "Vacation",
+    "text": "Vacation\nVacation is when you forget what day it is and I can hardly tell what day it was when we were travelling to Tofino.\n\nRelaxing brings weakness, when done by a muscle; but brings strength, when done by a person.” ― Mokokoma Mokhonoana"
+  },
+  {
+    "objectID": "posts/2023-June-14/index.html#focusing-illusion",
+    "href": "posts/2023-June-14/index.html#focusing-illusion",
+    "title": "Random Notes",
+    "section": "Focusing Illusion",
+    "text": "Focusing Illusion\nThe idea that you can be focused on a particular aspect of life, so much so that you can believe that your whole happiness depends on it. In having a focusing illusion, you create your own reason for feeling unhappy. Mogi (2018)\nIf unhappiness is a vacuum in which the required element is absent, the vacuum is created by the biased imagination of the subject. There is no absolute formula for happiness - each unique condition of life can serve as the foundation for happiness in its own unique way. Mogi (2018)"
+  },
+  {
+    "objectID": "posts/2023-June-14/index.html#how-to-fix",
+    "href": "posts/2023-June-14/index.html#how-to-fix",
+    "title": "Random Notes",
+    "section": "How to Fix?",
+    "text": "How to Fix?\nFrom Seth’s blog (link)\n\nOne reason we have so much trouble fixing chronic degenerative conditions is that we need to remove elements before we can start building new functions. If we simply put effort on top of a shaky foundation, it’ll all be wasted. The best way forward might be to take a few steps back."
+  },
+  {
+    "objectID": "posts/2023-June-25/index.html",
+    "href": "posts/2023-June-25/index.html",
+    "title": "Pareto Distribution",
+    "section": "",
+    "text": "The 80-20 Rule\nWhile not as well-known as the bell-shaped Normal (Gaussian) distribution, the Pareto distribution is a powerful tool for modeling a variety of real-life phenomena. It is named after the Italian economist Vilfredo Pareto (1848-1923), who developed the distribution in the 1890s as a way to describe the allocation of wealth in society. He famously observed that 80% of society’s wealth was controlled by 20% of its population, a concept now known as the “Pareto Principle” or the “80-20 Rule”. Source.\nAlso see Pareto efficiency and Parkinson’s Law.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2023-June-12/index.html",
+    "href": "posts/2023-June-12/index.html",
+    "title": "The Case for Daydreaming",
+    "section": "",
+    "text": "In neuroscience, the default mode network (DMN), also known as the default network, default state network is best known for being active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. It can also be active during detailed thoughts related to external task performance. Other times that the DMN is active include when the individual is thinking about others, thinking about themselves, remembering the past, and planning for the future. (See Default mode network)"
+  },
+  {
+    "objectID": "posts/2023-June-12/index.html#default-mode-network",
+    "href": "posts/2023-June-12/index.html#default-mode-network",
+    "title": "The Case for Daydreaming",
+    "section": "",
+    "text": "In neuroscience, the default mode network (DMN), also known as the default network, default state network is best known for being active when a person is not focused on the outside world and the brain is at wakeful rest, such as during daydreaming and mind-wandering. It can also be active during detailed thoughts related to external task performance. Other times that the DMN is active include when the individual is thinking about others, thinking about themselves, remembering the past, and planning for the future. (See Default mode network)"
+  },
+  {
+    "objectID": "posts/2023-June-12/index.html#mind-wandering",
+    "href": "posts/2023-June-12/index.html#mind-wandering",
+    "title": "The Case for Daydreaming",
+    "section": "Mind-wandering",
+    "text": "Mind-wandering\nMind-wandering is a broad term with no currently universal definition. According to McMillan, Kaufmann and Singer (2013) mind-wandering consists of 3 different subtypes: positive constructive daydreaming, guilty fear of failure, and poor attentional control. Whereas Smallwood and Schooler (2015) suggest that mind-wandering consists of thoughts that are task-unrelated and stimulus-independent. In general, a folk explanation of mind-wandering could be described as the experience of thoughts not remaining on a single topic for a long period of time, particularly when people are engaged in an attention-demanding task. (See Mind-wandering)"
+  },
+  {
+    "objectID": "posts/2023-June-12/index.html#key-takeaways-from-ubc-magazine",
+    "href": "posts/2023-June-12/index.html#key-takeaways-from-ubc-magazine",
+    "title": "The Case for Daydreaming",
+    "section": "Key Takeaways from UBC Magazine",
+    "text": "Key Takeaways from UBC Magazine\nIn a cumulative and worrying way, the smart phones might be making us stupid.\nThis is no mere speculation. On the increasingly rare occasion when we let our minds wander, the blood in our brains rushes to what is called the default network.\nThe default network: a vital support centre for spontaneous thought, a creative space that helps us through our thoughts and experiences. But goal driven thinking happens in another part of the brain, disconnects us from the fullness of our experience. (See Kalina Christoff)"
+  },
+  {
+    "objectID": "posts/2023-June-15/index.html",
+    "href": "posts/2023-June-15/index.html",
+    "title": "On Human Stupidity",
+    "section": "",
+    "text": "Non-stupid people always underestimate the damaging power of stupid people. In particular, they constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake. Cipolla and Taleb (2021)\nHelpless people are through their own nature will fail to recognize how dangerous stupid people are. Intelligent people and bandits also are tempted to believe or associate themselves with a stupid individual. However this can have a disastrous effects:\n\nIt is based on a complete misunderstanding of the essential nature of stupidity,\nIt gives the stupid person added scope for the exercise of his gifts."
+  },
+  {
+    "objectID": "posts/2023-June-15/index.html#the-fourth-law-of-stupidity",
+    "href": "posts/2023-June-15/index.html#the-fourth-law-of-stupidity",
+    "title": "On Human Stupidity",
+    "section": "",
+    "text": "Non-stupid people always underestimate the damaging power of stupid people. In particular, they constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake. Cipolla and Taleb (2021)\nHelpless people are through their own nature will fail to recognize how dangerous stupid people are. Intelligent people and bandits also are tempted to believe or associate themselves with a stupid individual. However this can have a disastrous effects:\n\nIt is based on a complete misunderstanding of the essential nature of stupidity,\nIt gives the stupid person added scope for the exercise of his gifts."
+  },
+  {
+    "objectID": "posts/2023-June-15/index.html#avoid-stupid-people",
+    "href": "posts/2023-June-15/index.html#avoid-stupid-people",
+    "title": "On Human Stupidity",
+    "section": "Avoid Stupid People",
+    "text": "Avoid Stupid People\nBecause of the erratic behavior of the stupid, one cannot foresee all the stupid’s actions and reactions, and before long one will be pulverized by the unpredictable moves of the stupid partner."
+  },
+  {
+    "objectID": "posts/2023-June-15/index.html#history",
+    "href": "posts/2023-June-15/index.html#history",
+    "title": "On Human Stupidity",
+    "section": "History",
+    "text": "History\nIn public and private life, innumerable individuals have failed to understand the Fourth Law. The failure has caused incalculable losses in the history of mankind."
+  },
+  {
+    "objectID": "posts/2023-June-22/index.html",
+    "href": "posts/2023-June-22/index.html",
+    "title": "Right Practice: Posture & Breathing",
+    "section": "",
+    "text": "Zazen practice is the direct expression of our true nature. Suzuki (2020)\n\n\nIt’s not for obtaining the right state of mind, the posture itself is the right state of mind.\n\nKeep your spine straight.\nIn posture, you’re not one or not two. Body and mind is both.\nOur body and mind shouldn’t be wobbling or wandering, right posture will bring you a steady state. But it’s not about right state of mind, the posture itself is the right state of mind.\nKeep right posture in everything you do.\nWhen you try to attain something, your mind starts to wander about somewhere else. When you do not try to attain anything, you have your own body and mind right here.\nWhen we have our body and mind in order, everything else will exist in the right place, in the right way.\nEnlightenment is not some good feeling or some particular state of mind. The state of mind that exists when you sit in the right posture is, itself, enlightenment.\n\n\n\n\nWhen we practice zazen our mind always follows or breathing, concentrate on your breathing, the fundamental activity of universal being."
+  },
+  {
+    "objectID": "posts/2023-June-22/index.html#right-practice",
+    "href": "posts/2023-June-22/index.html#right-practice",
+    "title": "Right Practice: Posture & Breathing",
+    "section": "",
+    "text": "Zazen practice is the direct expression of our true nature. Suzuki (2020)\n\n\nIt’s not for obtaining the right state of mind, the posture itself is the right state of mind.\n\nKeep your spine straight.\nIn posture, you’re not one or not two. Body and mind is both.\nOur body and mind shouldn’t be wobbling or wandering, right posture will bring you a steady state. But it’s not about right state of mind, the posture itself is the right state of mind.\nKeep right posture in everything you do.\nWhen you try to attain something, your mind starts to wander about somewhere else. When you do not try to attain anything, you have your own body and mind right here.\nWhen we have our body and mind in order, everything else will exist in the right place, in the right way.\nEnlightenment is not some good feeling or some particular state of mind. The state of mind that exists when you sit in the right posture is, itself, enlightenment.\n\n\n\n\nWhen we practice zazen our mind always follows or breathing, concentrate on your breathing, the fundamental activity of universal being."
+  },
+  {
+    "objectID": "posts/2023-June-7a/index.html",
+    "href": "posts/2023-June-7a/index.html",
+    "title": "Effort vs Results",
+    "section": "",
+    "text": "Do not confuse effort with results.\nJust because you put in the effort does not mean you’ll get the desired result.\nA lot of effort gets undone long before results are felt. Going to the gym is undone if you eat poorly. Focusing only on work gets undone by the inevitable health and relationship issues that come from under-investment. When we try to speed up the outcome, our lack of patience undoes the result.\n\n\n\n\n\n\nCaution\n\n\n\nResults are accumulated in drops but lost in buckets.Make sure you’re not undoing the things you’re trying to accomplish.\n\n\n\nSometimes the hardest decisions a person can make will most likely lead to the best outcomes. - Colleen Hoover.\n\n🆚\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2023-May-16/index.html",
+    "href": "posts/2023-May-16/index.html",
+    "title": "n Rules for Life",
+    "section": "",
+    "text": "Accept things as they are whether agreeable or disagreeable. Suzuki (2020)\nNever lose sight of ultimate purpose, your physical and mental health: You’re sane and breathing this minute and may be gone forever the next minute. (Unknown, probably Aurelius) Maintain your physical fitness and sanity.\nPractice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside you, to make your soul grow. – Kurt Vonnegut\nNo hurry, no pause: When you rush, time shrinks. When you’re relaxed, time expands. This is true even though it’s very hard for the mind to get. When you’re relaxed and doing something willingly, you’re participating in life. (Jon Schreiber, Breema Center)\nYou are what you think: Keep an untroubled spirit; for all things must bow to Nature’s Law Aurelius (2003)\nReflect on what you’ve read and written: Information becomes knowledge by reflection. Reflection cultivates intuition. abundant intuition makes up for lack of information thereby enabling you operate where your knowledge is limited. (Unknown)\nGive your attention proportioned to the merits of the case: Sometimes full attention, sometimes none. (Unknown)\nFocus not so much on words but on actual behavior. (Don’t watch his mouth, watch his hands. – Adler’s dictum).\nDo not try to stay on top of things (you cannot). Instead try to get to the bottom of things. (This kind of success, while not guaranteed, will be more fulfilling than the former).\nIt is more important to invest in good people than in good ideas. (bet on the jockey not the horse).\nWork expands to fill the time available for its completion (Parkinson’s law).\nPerceive those things which cannot be seen (e.g. pay attention even to trifles). And do nothing which is of no use. (Miyamoto Musashi)\nOne who makes a show of valor is hated by others, even he achieves something, it is not praised but denied. (Kumazawa Banzan)\nIn the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.\nWe read the same facts differently. For an optimist philosopher the universe spells victory, for a pessimist, defeat. (William James, from Pragmatism and Other Writings).\nRoughly 80% of outcomes come from 20% of causes (see Pareto principle).\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nRevised on 2023-June-25\nRevised on 2023-June-23\nRevised on 2023-May-16\nRevised on 2023-February-10\nRevised on 2023-February-07\n\n\n\n\n\n\n\n Back to topReferences\n\nAurelius, Marcus. 2003. Meditations: A New Translation. Translated by Gregory Hays. Revised ed. edition. New York: Modern Library.\n\n\nSuzuki, Shunryu. 2020. Zen Mind, Beginner’s Mind: 50th Anniversary Edition. Anniversary edition. Boulder: Shambhala."
+  },
+  {
+    "objectID": "posts/2023-May-18/index.html",
+    "href": "posts/2023-May-18/index.html",
+    "title": "Compromises",
+    "section": "",
+    "text": "I tried several options:\n\nStatic site generators, Jekyll-based options and Python scripts\nSimple html files using Notepad++ to build a website to hold my notes\n\nThen I’m back to .md files using Zettlr, because it supports:\n\nMath typesetting i.e. good \\(\\LaTeX\\) support.\nEasy input of more commands in .md than in .html using Notepad++\nEasy .html and .pdf generation\nCitation built-in with Zotero\n\nBut I discovered Quarto which is a scientific and technical publishing system utilizing Pandoc. It does everything Zettlr does but in style. But Zettlr is still best for raw note-taking."
+  },
+  {
+    "objectID": "posts/2023-May-18/index.html#choices",
+    "href": "posts/2023-May-18/index.html#choices",
+    "title": "Compromises",
+    "section": "",
+    "text": "I tried several options:\n\nStatic site generators, Jekyll-based options and Python scripts\nSimple html files using Notepad++ to build a website to hold my notes\n\nThen I’m back to .md files using Zettlr, because it supports:\n\nMath typesetting i.e. good \\(\\LaTeX\\) support.\nEasy input of more commands in .md than in .html using Notepad++\nEasy .html and .pdf generation\nCitation built-in with Zotero\n\nBut I discovered Quarto which is a scientific and technical publishing system utilizing Pandoc. It does everything Zettlr does but in style. But Zettlr is still best for raw note-taking."
+  },
+  {
+    "objectID": "posts/2023-June-7/index.html",
+    "href": "posts/2023-June-7/index.html",
+    "title": "Ultimate Satisfaction",
+    "section": "",
+    "text": "Success or failure is not relevant but the ultimate satisfaction is the process of performing those small rituals. Mogi (2018)\nAlso see Zanshin\n\n\n\n\n Back to topReferences\n\nMogi, Ken. 2018. The Little Book of Ikigai: The secret Japanese way to live a happy and long life. London: Hodder."
+  },
+  {
+    "objectID": "posts/2023-June-1/index.html",
+    "href": "posts/2023-June-1/index.html",
+    "title": "Killing Commendatore",
+    "section": "",
+    "text": "A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one’s own satisfaction, live in solitude, get better at what one does and make art. Murakami (2019)"
+  },
+  {
+    "objectID": "posts/2023-June-1/index.html#brief-summary",
+    "href": "posts/2023-June-1/index.html#brief-summary",
+    "title": "Killing Commendatore",
+    "section": "",
+    "text": "A story of a painter who did portrait commissions for financial stability and later spent several months in solitude to paint as he pleased. Loaded with Murakami characters and wisdom, the book inspires to pursue some form of art for one’s own satisfaction, live in solitude, get better at what one does and make art. Murakami (2019)"
   },
   {
     "objectID": "posts/2023-June-8/index.html",
@@ -537,26 +558,5 @@
     "title": "no hurry, no pause",
     "section": "",
     "text": "Wabi-Sabi\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, July 8, 2023\n\n\n\n\n\n\n\n\nPareto Distribution\n\n\n\n\n\n\n\n\n\n\n\n\nSunday, June 25, 2023\n\n\n\n\n\n\n\n\nRight Practice: Posture & Breathing\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 22, 2023\n\n\n\n\n\n\n\n\nThe Road to Reality\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 21, 2023\n\n\n\n\n\n\n\n\nPechaKucha & Haiku\n\n\n\n\n\n\n\n\n\n\n\n\nFriday, June 16, 2023\n\n\n\n\n\n\n\n\nOn Human Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 15, 2023\n\n\n\n\n\n\n\n\nOn Human Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 15, 2023\n\n\n\n\n\n\n\n\nRandom Notes\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 14, 2023\n\n\n\n\n\n\n\n\nHuman Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, June 13, 2023\n\n\n\n\n\n\n\n\nThe Case for Daydreaming\n\n\n\n\n\n\n\n\n\n\n\n\nMonday, June 12, 2023\n\n\n\n\n\n\n\n\nThe Basic Laws of Human Stupidity\n\n\n\n\n\n\n\n\n\n\n\n\nSunday, June 11, 2023\n\n\n\n\n\n\n\n\nNegative Utility\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, June 10, 2023\n\n\n\n\n\n\n\n\nTruth-default Theory\n\n\n\n\n\n\n\n\n\n\n\n\nFriday, June 9, 2023\n\n\n\n\n\n\n\n\nThe Human Soul Degrades\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 8, 2023\n\n\n\n\n\n\n\n\nEffort vs Results\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 7, 2023\n\n\n\n\n\n\n\n\nUltimate Satisfaction\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 7, 2023\n\n\n\n\n\n\n\n\nFake News\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, June 7, 2023\n\n\n\n\n\n\n\n\nNocturne A2\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, June 6, 2023\n\n\n\n\n\n\n\n\nNovelist as a Vocation\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, June 6, 2023\n\n\n\n\n\n\n\n\nGood Enough\n\n\n\n\n\n\n\n\n\n\n\n\nMonday, June 5, 2023\n\n\n\n\n\n\n\n\nAnger & Wholesome Way\n\n\n\n\n\n\n\n\n\n\n\n\nSunday, June 4, 2023\n\n\n\n\n\n\n\n\nThe Book of Five Rings\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, June 3, 2023\n\n\n\n\n\n\n\n\nThe Art of Practicing\n\n\n\n\n\n\n\n\n\n\n\n\nFriday, June 2, 2023\n\n\n\n\n\n\n\n\nKilling Commendatore\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, June 1, 2023\n\n\n\n\n\n\n\n\nZanshin\n\n\n\n\n\n\n\n\n\n\n\n\nSaturday, May 27, 2023\n\n\n\n\n\n\n\n\nCompromises\n\n\n\n\n\n\n\n\n\n\n\n\nThursday, May 18, 2023\n\n\n\n\n\n\n\n\nn Rules for Life\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, May 16, 2023\n\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday, May 9, 2023\n\n\n\n\n\n\n\n\nCheat Sheet\n\n\n\n\n\n\n\n\n\n\n\n\nSunday, January 1, 2023\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n Back to top"
-  },
-  {
-    "objectID": "posts/2023-July-08/index.html",
-    "href": "posts/2023-July-08/index.html",
-    "title": "Wabi-Sabi",
-    "section": "",
-    "text": "In traditional Japanese aesthetics wabi-sabi (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is “imperfect, impermanent, and incomplete” in nature. Source"
-  },
-  {
-    "objectID": "posts/2023-July-08/index.html#brief-summary",
-    "href": "posts/2023-July-08/index.html#brief-summary",
-    "title": "Wabi-Sabi",
-    "section": "",
-    "text": "In traditional Japanese aesthetics wabi-sabi (侘寂) is a world view centered on the acceptance of transience and imperfection. The aesthetic is sometimes described as one of appreciating beauty that is “imperfect, impermanent, and incomplete” in nature. Source"
-  },
-  {
-    "objectID": "posts/2023-July-08/index.html#book-notes",
-    "href": "posts/2023-July-08/index.html#book-notes",
-    "title": "Wabi-Sabi",
-    "section": "Book Notes",
-    "text": "Book Notes\nSee Koren (2008)"
   }
 ]
