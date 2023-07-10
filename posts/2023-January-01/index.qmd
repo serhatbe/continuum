@@ -1,9 +1,10 @@
 ---
 title: "Cheat Sheet"
 date: "2023-January-01"
-format: 
-  html: default
-  pdf: default
+format:
+  html:
+    code-fold: true
+    code-copy: true
 categories:
   - 2023
   - Code
@@ -23,39 +24,156 @@ categories:
 
 To convert md to HTML, use this command:
 
-```         
+``` r
 pandoc test1.md -f markdown -t html -s -o test1.html
 ```
 
 To convert a whole directory of files from md to HTML in linux or OSX:
 
-```         
+``` r
 for f in *.md; do pandoc "$f" -s -o "${f%.md}.html"; done
 ```
 
 HTML with table of contents, CSS, and custom footer:
 
-```         
+``` r
 pandoc -s --toc -c pandoc.css -A footer.html MANUAL.txt -o MANUAL.html
 ```
 
 ## Quarto
 
-To render all *.qmd files in posts to generate HTML in docs, use this command in RStudio Terminal (do not use Build>Render):
+1.  Sample \_quarto.yml file:
 
-```         
+``` r
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: true
+
+website:
+  title: "The Deep Keel"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Practice"
+        href: blog.qmd
+      #- about.qmd
+      - playlist.qmd
+      - equipment.qmd
+      # - section: "Etc."
+      #   contents:
+      #     - playlist.qmd
+      #     - equipment.qmd
+
+  back-to-top-navigation: true
+  page-footer: 
+    left: "2013-2023, The Deep Keel"
+    background: light
+format:
+  html:
+    toc: true
+    theme: cosmo #default journal cosmo litera 
+    css: styles.css
+date-format: full
+editor: visual
+```
+
+2.  Sample \_quarto.yml file:
+
+``` r
+project:
+ type: website
+ output-dir: docs
+ execute:
+ freeze: true
+ website:
+ title: "continuum"
+ site-url: https://
+ description: "random notes and daily miscellany"
+ navbar:
+ right:
+  - about.qmd
+  - icon: rss
+ href: index.xml
+  - icon: github
+ href: https://github.com/
+ back-to-top-navigation: true
+ page-footer:
+ right: "Built with \[Quarto\](https://quarto.org/)."
+
+ format:
+ html:
+ toc: true
+ theme: cosmo #journal
+ css: styles.css
+ code-copy: true
+ date-format: full
+ editor: visual
+```
+
+3.  Sample \_quarto.yml file:
+
+``` r
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: true
+
+website:
+  title: "Freewheelin' the Byways"
+  navbar:
+    right:
+      - equipment.qmd
+  back-to-top-navigation: true
+  page-footer: 
+    left: "2007-2023, Freewheeling the Byways"
+    background: light
+format:
+  html:
+    toc: true
+    theme: sketchy #default journal cosmo litera sketchy
+    css: styles.css
+date-format: full
+
+editor: visual
+```
+
+4.  Sample index.qmd file:
+
+``` yaml
+---
+title: "Ride with the wind and due care!"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: cloud #numbered unnumbered cloud
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+```
+
+5.  To render all \*.qmd files in posts to generate HTML in docs, use this command in RStudio Terminal (do not use Build\>Render):
+
+``` r
 quarto render
 ```
+
 ## Server
 
 Start Python server:
 
-```         
-python3 -m http.server 
+``` python
+python3 -m http.server
 ```
 
 Go to the URL
 
-```         
+``` python
 localhost:8000
 ```
