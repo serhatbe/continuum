@@ -84,33 +84,33 @@ editor: visual
 
 ``` r
 project:
- type: website
- output-dir: docs
- execute:
- freeze: true
- website:
- title: "continuum"
- site-url: https://
- description: "random notes and daily miscellany"
- navbar:
- right:
-  - about.qmd
-  - icon: rss
- href: index.xml
-  - icon: github
- href: https://github.com/
- back-to-top-navigation: true
- page-footer:
- right: "Built with \[Quarto\](https://quarto.org/)."
+  type: website
+  output-dir: docs
+execute:
+  freeze: true
+website:
+  title: "continuum"
+  site-url: 
+  description: "random notes and daily miscellany"
+  navbar:
+    right:
+      - about.qmd
+      - icon: rss
+        href: index.xml
+      - icon: github
+        href: 
+  back-to-top-navigation: true
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)."
 
- format:
- html:
- toc: true
- theme: cosmo #journal
- css: styles.css
- code-copy: true
- date-format: full
- editor: visual
+format:
+  html:
+    toc: true
+    theme: cosmo #journal
+    css: styles.css
+    code-copy: true
+date-format: full
+editor: visual
 ```
 
 3.  Sample \_quarto.yml file:
