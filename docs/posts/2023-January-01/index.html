@@ -73,6 +73,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -144,6 +146,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
                                 <div class="quarto-categories">
                 <div class="quarto-category">2023</div>
                 <div class="quarto-category">Code</div>
+                <div class="quarto-category">Quarto</div>
+                <div class="quarto-category">Icons</div>
               </div>
                   </div>
   </div>
@@ -324,15 +328,63 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </ol>
 <div class="sourceCode" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>quarto install extension quarto<span class="sc">-</span>ext<span class="sc">/</span>fontawesome</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>Input examples:</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>{{<span class="sc">&lt;</span> fa brands apple <span class="sc">&gt;</span>}}</span>
-<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>{{<span class="sc">&lt;</span> fa calendar <span class="sc">&gt;</span>}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<table class="table">
+<colgroup>
+<col style="width: 55%">
+<col style="width: 44%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Shortcode</th>
+<th>Icon</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>{{&lt; fa thumbs-up &gt;}}</code></td>
+<td><p><i class="fa-solid fa-thumbs-up" aria-label="thumbs-up"></i></p></td>
+</tr>
+<tr class="even">
+<td><code>{{&lt; fa folder &gt;}}</code></td>
+<td><p><i class="fa-solid fa-folder" aria-label="folder"></i></p></td>
+</tr>
+<tr class="odd">
+<td><code>{{&lt; fa chess-pawn &gt;}}</code></td>
+<td><p><i class="fa-solid fa-chess-pawn" aria-label="chess-pawn"></i></p></td>
+</tr>
+<tr class="even">
+<td><code>{{&lt; fa book &gt;}}</code></td>
+<td><p><i class="fa-solid fa-book" aria-label="book"></i></p></td>
+</tr>
+<tr class="odd">
+<td><code>{{&lt; fa brands bluetooth &gt;}}</code></td>
+<td><p><i class="fa-brands fa-bluetooth" aria-label="bluetooth"></i></p></td>
+</tr>
+<tr class="even">
+<td><code>{{&lt; fa brands twitter size=2xl &gt;}}</code> (HTML only)</td>
+<td><p><i class="fa-brands fa-twitter fa-2xl" aria-label="twitter"></i></p></td>
+</tr>
+<tr class="odd">
+<td><code>{{&lt; fa brands github size=5x &gt;}}</code> (HTML only)</td>
+<td><p><i class="fa-brands fa-github fa-5x" aria-label="github"></i></p></td>
+</tr>
+<tr class="even">
+<td><code>{{&lt; fa battery-half size=Huge &gt;}}</code></td>
+<td><p><i class="fa-solid fa-battery-half fa-Huge" aria-label="battery-half"></i></p></td>
+</tr>
+<tr class="odd">
+<td><code>{{&lt; fa envelope title="An envelope" &gt;}}</code></td>
+<td><p><i class="fa-solid fa-envelope" title="An envelope" aria-label="envelope"></i></p></td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="server" class="level2">
 <h2 class="anchored" data-anchor-id="server">Server</h2>
 <p>Start Python server:</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>python3 <span class="op">-</span>m http.server</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>python3 <span class="op">-</span>m http.server</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>Go to the URL</p>
-<div class="sourceCode" id="cb12"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>localhost:<span class="dv">8000</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>localhost:<span class="dv">8000</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>
