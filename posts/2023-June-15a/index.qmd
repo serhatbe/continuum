@@ -1,9 +1,11 @@
 ---
 title: "On Human Stupidity"
 date: "2023-June-15"
+date-modified: "2023-July-12"
 categories:
   - 2023
   - Notes
+  - Carlo M. Cipolla
   - Philosophy
   - Life
 bibliography: references.json
@@ -11,7 +13,7 @@ bibliography: references.json
 
 ## The Fifth Law of Stupidity
 
-A stupid person is the most dangerous type of person and they are more dangerous then bandits. The worst consequences of this at macro level is that the algebraic sum of the stupid individuals in a group or society at large will affect the wealth and welfare of the society. @cipolla2021
+A stupid person is the most dangerous type of person and they are more dangerous then bandits. The worst consequences of this at macro level is that the algebraic sum of the stupid individuals in a group or society at large will affect the wealth and welfare of the society. @cipolla2019
 
 ## Macro Analysis
 
@@ -31,4 +33,4 @@ Therefore:
 1.  In a group, society or country moving uphill, intelligent people manage to keep the $\sigma$ fraction at bay and produce enough gains to make progress a certainty.
 2.  In a group, society or country moving downhill, the $\sigma$ fraction is still the same but the composition of non-stupid people increases the destructive power and makes decline a certainty. This is the direction to Hell.
 
-## References
+## Reference(s)

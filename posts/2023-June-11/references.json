@@ -54,5 +54,31 @@
         "providerkey": "Zotero",
         "title": "The Basic Laws of Human Stupidity",
         "type": "book"
+    },
+    {
+        "ISBN": "978-0-7535-5483-8",
+        "author": [
+            {
+                "family": "Cipolla",
+                "given": "Carlo M."
+            }
+        ],
+        "id": "cipolla2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "key": "ZH86DQWS",
+        "language": "English",
+        "libraryid": "1",
+        "providerkey": "Zotero",
+        "publisher-place": "London",
+        "source": "Amazon",
+        "title": "The Basic Laws of Human Stupidity",
+        "title-short": "The Basic Laws of Human Stupidity",
+        "type": "book"
     }
 ]

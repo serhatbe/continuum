@@ -1,9 +1,11 @@
 ---
 title: "On Human Stupidity"
 date: "2023-June-15"
+date-modified: "2023-July-12"
 categories:
   - 2023
   - Notes
+  - Carlo M. Cipolla
   - Philosophy
   - Life
 bibliography: references.json
@@ -11,7 +13,7 @@ bibliography: references.json
 
 ## The Fourth Law of Stupidity
 
-Non-stupid people always underestimate the damaging power of stupid people. In particular, they constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake. @cipolla2021
+Non-stupid people always underestimate the damaging power of stupid people. In particular, they constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake. @cipolla2019
 
 Helpless people are through their own nature will fail to recognize how dangerous stupid people are. Intelligent people and bandits also are tempted to believe or associate themselves with a stupid individual. However this can have a disastrous effects:
 

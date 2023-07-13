@@ -1,9 +1,10 @@
 ---
 title: "Random Notes"
 date: "2023-June-14"
+date-modified: "2023-July-12"
 format: 
   html: default
-  pdf: default
+  #pdf: default
 categories:
   - 2023
   - Notes
@@ -13,13 +14,13 @@ categories:
   - Perfectionism
   - Mokhonoana
   - Mogi
-  - Cipolla
+  - Carlo M. Cipolla
 bibliography: references.json
 ---
 
 ## Imprecision
 
-The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. @cipolla2021
+The margin of imprecision is bound to affect the measurement but it does not affect the essence of the argument. @cipolla2019
 
 ## Vacation
 

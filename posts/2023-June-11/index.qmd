@@ -1,6 +1,7 @@
 ---
 title: "The Basic Laws of Human Stupidity"
 date: "2023-June-11"
+date-modified: "2023-July-12"
 format: 
   html: default
   #pdf: default
@@ -13,7 +14,7 @@ categories:
 bibliography: references.json
 ---
 
-The basic laws assert that (@cipolla2021)
+The basic laws assert that (@cipolla2019)
 
 1.  Always and inevitably everyone underestimates the number of stupid individuals in circulation.
 
