@@ -1,0 +1,30 @@
+---
+title: "The Complete Essays"
+date: "2023-July-12"
+#date-modified: "2023-July-xx"
+format: 
+  html: default
+  #pdf: default
+categories:
+  - 2023
+  - Notes
+  - Michel de Montaigne
+  - Philosophy
+  - Essays
+  - Life
+bibliography: references.json
+---
+
+## **Michel de Montaigne**
+
+Michel Eyquem, Seigneur de Montaigne, known as Michel de Montaigne, was one of the most significant philosophers of the French Renaissance. He is known for popularizing the essay as a literary genre. His work is noted for its merging of casual anecdotes and autobiography with intellectual insight. [Source](https://en.wikipedia.org/wiki/Michel_de_Montaigne "Wikipedia")
+
+**Born:** 28 February 1533, Château de Montaigne, Guyenne, Kingdom of France
+
+**Died:** 13 September 1592 (aged 59) Château de Montaigne, Guyenne, Kingdom of France
+
+## Notes
+
+Montaigne knew that opinions are not certainties, and that most human 'certainties' are in fact opinions. @demontaigne1993
+
+## Reference(s)

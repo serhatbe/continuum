@@ -3,7 +3,7 @@ title: "Human Stupidity"
 date: "2023-June-13"
 format: 
   html: default
-  pdf: default
+  #pdf: default
 categories:
   - 2023
   - Notes
@@ -63,4 +63,4 @@ graph LR;
 
 Also see: [The Basic Laws of Human Stupidity](https://serhatbe.github.io/continuum/posts/2023-June-11/)
 
-## References
+## Reference(s)

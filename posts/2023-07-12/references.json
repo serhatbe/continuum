@@ -1,0 +1,73 @@
+[
+    {
+        "ISBN": "978-0-14-044604-3",
+        "author": [
+            {
+                "family": "De",
+                "given": "Montaigne Michel"
+            },
+            {
+                "family": "Screech",
+                "given": "M. A."
+            }
+        ],
+        "edition": "Reprint edition",
+        "id": "de1993",
+        "issued": {
+            "date-parts": [
+                [
+                    1993,
+                    9,
+                    7
+                ]
+            ]
+        },
+        "key": "K9U4PVN8",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "1344",
+        "providerkey": "Zotero",
+        "publisher": "Penguin Classics",
+        "publisher-place": "London, England New York, N.Y., USA",
+        "source": "Amazon",
+        "title": "The Complete Essays",
+        "type": "book"
+    },
+    {
+        "ISBN": "978-0-14-044604-3",
+        "author": [
+            {
+                "family": "Montaigne",
+                "given": "Michel",
+                "non-dropping-particle": "de"
+            }
+        ],
+        "edition": "Reprint edition",
+        "id": "demontaigne1993",
+        "issued": {
+            "date-parts": [
+                [
+                    1993,
+                    9,
+                    7
+                ]
+            ]
+        },
+        "key": "K9U4PVN8",
+        "language": "English",
+        "libraryid": "1",
+        "number-of-pages": "1344",
+        "providerkey": "Zotero",
+        "publisher": "Penguin Classics",
+        "publisher-place": "London, England New York, N.Y., USA",
+        "source": "Amazon",
+        "title": "The Complete Essays",
+        "translator": [
+            {
+                "family": "Screech",
+                "given": "M. A."
+            }
+        ],
+        "type": "book"
+    }
+]

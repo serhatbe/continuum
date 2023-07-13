@@ -3,18 +3,17 @@ title: "The Basic Laws of Human Stupidity"
 date: "2023-June-11"
 format: 
   html: default
-  pdf: default
+  #pdf: default
 categories:
   - 2023
   - Notes
   - Carlo M. Cipolla
-  - Nassim Nicholas Taleb
   - Philosophy
   - Life
 bibliography: references.json
 ---
 
-The basic laws assert that @cipolla2021
+The basic laws assert that (@cipolla2021)
 
 1.  Always and inevitably everyone underestimates the number of stupid individuals in circulation.
 
@@ -26,4 +25,6 @@ The basic laws assert that @cipolla2021
 
 5.  A stupid person is the most dangerous type of person. A stupid person is more dangerous than a bandit.
 
-## References
+> Intelligence and stupidity are not the opposite of one another, nor is stupidity the lack of intelligence, but intelligence is the product, more or less unsuccessful, of a continuous series of attempts to dominate, or escape, the stupidity that constitutes everything that is human --- Matthijs Van Boxsel.
+
+## Reference(s)

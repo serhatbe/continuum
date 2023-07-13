@@ -1280,33 +1280,112 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/11849727/items/FQYGMY4S",
+		"id": "http://zotero.org/users/11849727/items/PC6TDAF9",
 		"type": "book",
-		"abstract": "\"A masterly book\" —Nassim Nicholas Taleb, author of The Black Swan \"A classic\" —Simon Kuper, Financial Times An economist explains five laws that confirm our worst fears: stupid people can and do rule the worldThroughout history, a powerful force has hindered the growth of human welfare and happiness. It is more powerful than the Mafia or the military. It has global catastrophic effects and can be found anywhere from the world's most powerful boardrooms to your local bar.  It is human stupidity. Carlo M. Cipolla, noted professor of economic history at the UC Berkeley, created this vitally important book in order to detect and neutralize its threat. Both hilarious and dead serious, it will leave you better equipped to confront political realities, unreasonable colleagues, or your next dinner with your in-laws.  The Laws:  1. Everyone underestimates the number of stupid individuals among us.  2. The probability that a certain person is stupid is independent of any other characteristic of that person.  3. A stupid person is a person who causes losses to another person while deriving no gain and even possibly incurring losses themselves.   4. Non-stupid people always underestimate the damaging power of stupid individuals.   5. A stupid person is the most dangerous type of person.",
-		"event-place": "New York",
-		"ISBN": "978-0-385-54647-8",
+		"abstract": "**WINNER OF THE 2020 NOBEL PRIZE IN PHYSICS** The Road to Reality is the most important and ambitious work of science for a generation. It provides nothing less than a comprehensive account of the physical universe and the essentials of its underlying mathematical theory. It assumes no particular specialist knowledge on the part of the reader, so that, for example, the early chapters give us the vital mathematical background to the physical theories explored later in the book.  Roger Penrose's purpose is to describe as clearly as possible our present understanding of the universe and to convey a feeling for its deep beauty and philosophical implications, as well as its intricate logical interconnections.  The Road to Reality is rarely less than challenging, but the book is leavened by vivid descriptive passages, as well as hundreds of hand-drawn diagrams. In a single work of colossal scope one of the world's greatest scientists has given us a complete and unrivalled guide to the glories of the universe that we all inhabit.'Roger Penrose is the most important physicist to work in relativity theory except for Einstein. He is one of the very few people I've met in my life who, without reservation, I call a genius' Lee Smolin",
+		"event-place": "London",
+		"ISBN": "978-0-09-944068-0",
 		"language": "English",
-		"number-of-pages": "96",
-		"publisher": "Doubleday",
-		"publisher-place": "New York",
+		"number-of-pages": "1136",
+		"publisher": "Vintage Books",
+		"publisher-place": "London",
 		"source": "Amazon",
-		"title": "The Basic Laws of Human Stupidity",
+		"title": "The Road to Reality: A Complete Guide to the Laws of the Universe",
+		"title-short": "The Road to Reality",
 		"author": [
 			{
-				"family": "Cipolla",
-				"given": "Carlo M."
-			},
-			{
-				"family": "Taleb",
-				"given": "Nassim Nicholas"
+				"family": "Penrose",
+				"given": "Roger"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2021",
-					4,
-					6
+					"2006",
+					2,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11849727/items/VDJN6ZIW",
+		"type": "book",
+		"call-number": "TJ 255 J6 1996",
+		"edition": "5th ed",
+		"event-place": "Harlow, Essex",
+		"ISBN": "978-0-582-25629-3",
+		"number-of-pages": "647",
+		"publisher": "Pearson/Prenctice Hall",
+		"publisher-place": "Harlow, Essex",
+		"source": "innopac.lib.bcit.ca Library Catalog",
+		"title": "Basic engineering thermodynamics",
+		"author": [
+			{
+				"family": "Joel",
+				"given": "Rayner"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11849727/items/K9U4PVN8",
+		"type": "book",
+		"abstract": "Michel de Montaigne was one of the most influential figures of the Renaissance, singlehandedly responsible for popularising the essay as a literary form. This Penguin Classics edition of The Complete Essays is translated from the French and edited with an introduction and notes by M.A. Screech. In 1572 Montaigne retired to his estates in order to devote himself to leisure, reading and reflection. There he wrote his constantly expanding 'assays', inspired by the ideas he found in books contained in his library and from his own experience. He discusses subjects as diverse as war-horses and cannibals, poetry and politics, sex and religion, love and friendship, ecstasy and experience. But, above all, Montaigne studied himself as a way of drawing out his own inner nature and that of men and women in general. The Essays are among the most idiosyncratic and personal works in all literature and provide an engaging insight into a wise Renaissance mind, continuing to give pleasure and enlightenment to modern readers. With its extensive introduction and notes, M.A. Screech's edition of Montaigne is widely regarded as the most distinguished of recent times. Michel de Montaigne (1533-1586) studied law and spent a number of years working as a counsellor before devoting his life to reading, writing and reflection. If you enjoyed The Complete Essays, you might like Francois Rabelais's Gargantua and Pantagruel, also available in Penguin Classics. 'Screech's fine version ... must surely serve as the definitive English Montaigne' A.C. Grayling, Financial Times 'A superb edition' Nicholas Wollaston, Observer",
+		"edition": "Reprint edition",
+		"event-place": "London, England New York, N.Y., USA",
+		"ISBN": "978-0-14-044604-3",
+		"language": "English",
+		"number-of-pages": "1344",
+		"publisher": "Penguin Classics",
+		"publisher-place": "London, England New York, N.Y., USA",
+		"source": "Amazon",
+		"title": "The Complete Essays",
+		"author": [
+			{
+				"family": "Montaigne",
+				"given": "Michel",
+				"non-dropping-particle": "de"
+			}
+		],
+		"translator": [
+			{
+				"family": "Screech",
+				"given": "M. A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					9,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/11849727/items/C7DRAT6H",
+		"type": "book",
+		"ISBN": "978-0-385-54647-8",
+		"title": "The Basic Laws of Human Stupidity",
+		"URL": "http://www.librarything.com/work/806842/book/209984078",
+		"author": [
+			{
+				"family": "Cipolla",
+				"given": "Carlo M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
 				]
 			]
 		}

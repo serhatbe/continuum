@@ -1,34 +1,24 @@
 [
     {
         "ISBN": "978-0-385-54647-8",
+        "URL": "http://www.librarything.com/work/806842/book/209984078",
         "author": [
             {
                 "family": "Cipolla",
                 "given": "Carlo M."
-            },
-            {
-                "family": "Taleb",
-                "given": "Nassim Nicholas"
             }
         ],
         "id": "cipolla2021",
         "issued": {
             "date-parts": [
                 [
-                    2021,
-                    4,
-                    6
+                    2021
                 ]
             ]
         },
-        "key": "FQYGMY4S",
-        "language": "English",
+        "key": "C7DRAT6H",
         "libraryid": "1",
-        "number-of-pages": "96",
         "providerkey": "Zotero",
-        "publisher": "Doubleday",
-        "publisher-place": "New York",
-        "source": "Amazon",
         "title": "The Basic Laws of Human Stupidity",
         "type": "book"
     }
